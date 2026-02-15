@@ -176,10 +176,6 @@ select:focus {
   animation: rise 0.8s ease-out;
 }
 
-.mobile-cards {
-  display: none;
-}
-
 table {
   width: 100%;
   min-width: 900px;
@@ -273,79 +269,41 @@ button:disabled {
     grid-template-columns: 1fr;
   }
 
-  .desktop-table {
-    display: none;
-  }
-
-  .mobile-cards {
-    display: grid;
-    gap: 10px;
-    padding: 12px;
-  }
-
-  .mobile-state {
-    margin: 4px;
-    color: var(--muted);
-  }
-
-  .mobile-card {
-    border: 1px solid var(--line);
-    border-radius: 12px;
-    background: #fff;
-    padding: 12px;
-  }
-
-  .mobile-school {
-    margin: 0 0 10px;
-    font-family: var(--font-display), sans-serif;
-    font-weight: 600;
-    line-height: 1.25;
-  }
-
-  .mobile-card dl {
-    margin: 0;
-    display: grid;
-    gap: 8px;
-  }
-
-  .mobile-card dl > div {
-    display: grid;
-    grid-template-columns: 72px minmax(0, 1fr);
-    gap: 10px;
-    align-items: start;
-  }
-
-  .mobile-card dt {
-    font-size: 0.8rem;
-    color: var(--muted);
-    margin: 0;
-  }
-
-  .mobile-card dd {
-    margin: 0;
+  table {
     min-width: 0;
+    table-layout: fixed;
   }
 
-  .mobile-profile {
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    line-height: 1.3;
+  th,
+  td {
+    padding: 8px 6px;
+    font-size: 0.86rem;
+    overflow-wrap: anywhere;
+    word-break: break-word;
   }
 
-  .mobile-profile.expanded {
-    display: block;
+  th:nth-child(1),
+  td:nth-child(1) {
+    width: 18%;
   }
 
-  .mobile-profile-toggle {
-    margin-top: 4px;
-    padding: 0;
-    border: 0;
-    background: transparent;
-    color: var(--accent);
-    font-size: 0.85rem;
-    font-weight: 600;
-    text-align: left;
+  th:nth-child(2),
+  td:nth-child(2) {
+    width: 35%;
+  }
+
+  th:nth-child(3),
+  td:nth-child(3) {
+    width: 10%;
+  }
+
+  th:nth-child(4),
+  td:nth-child(4) {
+    width: 25%;
+  }
+
+  th:nth-child(5),
+  td:nth-child(5) {
+    width: 12%;
   }
 }
