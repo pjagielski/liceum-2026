@@ -1,6 +1,8 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
+import { SCHOOL_LINKS } from "./school-links";
+import { SCHOOL_RATINGS } from "./school-ratings";
 
 const PAGE_SIZE = 25;
 
@@ -329,7 +331,29 @@ export default function HomePage() {
                             {row.district}
                           </td>
                           <td className="group-cell" rowSpan={group.rows.length}>
-                            {row.school}
+                            <div className="school-meta">
+                              {SCHOOL_LINKS[row.school] ? (
+                                <a
+                                  className="school-link"
+                                  href={SCHOOL_LINKS[row.school]}
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  aria-label={`Otwórz profil ${row.school} w WaszaEdukacja`}
+                                >
+                                  {row.school}
+                                </a>
+                              ) : (
+                                row.school
+                              )}
+                              {SCHOOL_RATINGS[row.school] ? (
+                                <p className="school-rating">
+                                  {`WaszaEdukacja: ${SCHOOL_RATINGS[row.school].rating.toFixed(2)}/5`}
+                                  {SCHOOL_RATINGS[row.school].reviews
+                                    ? ` (${SCHOOL_RATINGS[row.school].reviews.toLocaleString("pl-PL")} opinii)`
+                                    : ""}
+                                </p>
+                              ) : null}
+                            </div>
                           </td>
                         </>
                       )}

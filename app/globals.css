@@ -204,6 +204,36 @@ td {
   font-weight: 500;
 }
 
+.school-meta {
+  display: grid;
+  gap: 6px;
+}
+
+.school-link {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: #89c6a7;
+  text-underline-offset: 2px;
+  transition: text-decoration-color 0.2s ease;
+}
+
+.school-link:hover {
+  text-decoration-color: var(--accent);
+}
+
+.school-link:focus-visible {
+  outline: 2px solid #8cd3b0;
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+.school-rating {
+  margin: 0;
+  font-size: 0.78rem;
+  color: var(--muted);
+  font-weight: 400;
+}
+
 tbody tr:hover {
   background: var(--accent-soft);
 }
