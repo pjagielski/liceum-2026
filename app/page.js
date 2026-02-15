@@ -113,6 +113,19 @@ export default function HomePage() {
   const [includeNoData, setIncludeNoData] = useState(false);
   const [error, setError] = useState("");
   const [isLoading, setIsLoading] = useState(true);
+  const [expandedProfiles, setExpandedProfiles] = useState(() => new Set());
+
+  function toggleProfile(rowKey) {
+    setExpandedProfiles((current) => {
+      const next = new Set(current);
+      if (next.has(rowKey)) {
+        next.delete(rowKey);
+      } else {
+        next.add(rowKey);
+      }
+      return next;
+    });
+  }
 
   useEffect(() => {
     async function loadData() {
@@ -296,52 +309,105 @@ export default function HomePage() {
         </section>
 
         <section className="panel table-wrap" aria-label="Tabela progów">
-          <table>
-            <thead>
-              <tr>
-                <th>Dzielnica</th>
-                <th>Szkoła</th>
-                <th>Symbol</th>
-                <th>Profil</th>
-                <th>Punkty</th>
-              </tr>
-            </thead>
-            <tbody>
-              {error ? (
+          <div className="desktop-table">
+            <table>
+              <thead>
                 <tr>
-                  <td colSpan={5}>{error}</td>
+                  <th>Dzielnica</th>
+                  <th>Szkoła</th>
+                  <th>Symbol</th>
+                  <th>Profil</th>
+                  <th>Punkty</th>
                 </tr>
-              ) : isLoading ? (
-                <tr>
-                  <td colSpan={5}>Ładowanie danych...</td>
-                </tr>
-              ) : pageGroups.length === 0 ? (
-                <tr>
-                  <td colSpan={5}>Brak wyników dla podanych filtrów.</td>
-                </tr>
-              ) : (
-                pageGroups.map((group) =>
-                  group.rows.map((row, index) => (
-                    <tr key={`${row.district}-${row.school}-${row.symbol}-${index}`}>
-                      {index === 0 && (
-                        <>
-                          <td className="group-cell" rowSpan={group.rows.length}>
-                            {row.district}
-                          </td>
-                          <td className="group-cell" rowSpan={group.rows.length}>
-                            {row.school}
-                          </td>
-                        </>
-                      )}
-                      <td>{row.symbol}</td>
-                      <td>{row.profile}</td>
-                      <td className={row.minPointsRaw === "n.d." ? "nd" : ""}>{row.minPointsRaw}</td>
-                    </tr>
-                  ))
-                )
-              )}
-            </tbody>
-          </table>
+              </thead>
+              <tbody>
+                {error ? (
+                  <tr>
+                    <td colSpan={5}>{error}</td>
+                  </tr>
+                ) : isLoading ? (
+                  <tr>
+                    <td colSpan={5}>Ładowanie danych...</td>
+                  </tr>
+                ) : pageGroups.length === 0 ? (
+                  <tr>
+                    <td colSpan={5}>Brak wyników dla podanych filtrów.</td>
+                  </tr>
+                ) : (
+                  pageGroups.map((group) =>
+                    group.rows.map((row, index) => (
+                      <tr key={`${row.district}-${row.school}-${row.symbol}-${index}`}>
+                        {index === 0 && (
+                          <>
+                            <td className="group-cell" rowSpan={group.rows.length}>
+                              {row.district}
+                            </td>
+                            <td className="group-cell" rowSpan={group.rows.length}>
+                              {row.school}
+                            </td>
+                          </>
+                        )}
+                        <td>{row.symbol}</td>
+                        <td>{row.profile}</td>
+                        <td className={row.minPointsRaw === "n.d." ? "nd" : ""}>{row.minPointsRaw}</td>
+                      </tr>
+                    ))
+                  )
+                )}
+              </tbody>
+            </table>
+          </div>
+
+          <div className="mobile-cards" aria-live="polite">
+            {error ? (
+              <p className="mobile-state">{error}</p>
+            ) : isLoading ? (
+              <p className="mobile-state">Ładowanie danych...</p>
+            ) : pageRows.length === 0 ? (
+              <p className="mobile-state">Brak wyników dla podanych filtrów.</p>
+            ) : (
+              pageRows.map((row, index) => {
+                const rowKey = `${row.district}-${row.school}-${row.symbol}-${index}`;
+                const isExpanded = expandedProfiles.has(rowKey);
+                const shouldClamp = row.profile.length > 72;
+
+                return (
+                  <article className="mobile-card" key={`${row.district}-${row.school}-${row.symbol}-m-${index}`}>
+                    <p className="mobile-school">{row.school}</p>
+                    <dl>
+                      <div>
+                        <dt>Dzielnica</dt>
+                        <dd>{row.district}</dd>
+                      </div>
+                      <div>
+                        <dt>Symbol</dt>
+                        <dd>{row.symbol}</dd>
+                      </div>
+                      <div>
+                        <dt>Profil</dt>
+                        <dd>
+                          <span className={`mobile-profile${isExpanded ? " expanded" : ""}`}>{row.profile}</span>
+                          {shouldClamp && (
+                            <button
+                              type="button"
+                              className="mobile-profile-toggle"
+                              onClick={() => toggleProfile(rowKey)}
+                            >
+                              {isExpanded ? "Pokaż mniej" : "Pokaż więcej"}
+                            </button>
+                          )}
+                        </dd>
+                      </div>
+                      <div>
+                        <dt>Punkty</dt>
+                        <dd className={row.minPointsRaw === "n.d." ? "nd" : ""}>{row.minPointsRaw}</dd>
+                      </div>
+                    </dl>
+                  </article>
+                );
+              })
+            )}
+          </div>
         </section>
 
         <section className="pager" aria-label="Stronicowanie">
