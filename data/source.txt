@@ -1,0 +1,831 @@
+Dzielnica   Nazwa szkoły                                                                   Symbol oddziału     Nazwa krótka oddziału                                              Najmniejsza liczba punktów kandydatów zakwalifikowanych
+Bemowo      LXXVIII Liceum Ogólnokształcące im. Marii Pawlikowskiej-Jasnorzewskiej         1A                  1A [O] geogr-hist-ang (ang*-hisz)                                  141.05
+Bemowo      LXXVIII Liceum Ogólnokształcące im. Marii Pawlikowskiej-Jasnorzewskiej         1B                  1B [O] geogr-ang-mat (ang*-niem)                                   149.70
+Bemowo      LXXVIII Liceum Ogólnokształcące im. Marii Pawlikowskiej-Jasnorzewskiej         1C                  1C [O] biol-chem-ang (ang*-niem)                                   146.35
+Bemowo      LXXVIII Liceum Ogólnokształcące im. Marii Pawlikowskiej-Jasnorzewskiej         1D                  1D [O] ang-hiszp-pol (ang*-hisz*)                                  134.65
+Bemowo      LXXVIII Liceum Ogólnokształcące im. Marii Pawlikowskiej-Jasnorzewskiej         1E                  1E [O] hist-pol-wos (ang-niem)                                     130.40
+Bemowo      LXXVIII Liceum Ogólnokształcące im. Marii Pawlikowskiej-Jasnorzewskiej         1F                  1F [D] geogr-ang-wos (ang-hisz)                                    122.56
+Białołęka   CLXV Liceum Ogólnokształcące                                                   1A_hum              1A_hum [O] hist-ang-pol (ang-niem*,hisz*)                          115.95
+Białołęka   CLXV Liceum Ogólnokształcące                                                   1B_mat-info         1B_mat-info [O] inf-ang-mat (ang-hisz*,niem*)                      121.40
+Białołęka   CLXV Liceum Ogólnokształcące                                                   1C_geo-biz_integ    1C_geo-biz_integ [I-i] biz-geogr-ang (ang-niem*,hisz*)             n.d.
+Białołęka   CLXV Liceum Ogólnokształcące                                                   1C_geo-biz_ogól     1C_geo-biz_ogól [I-o] biz-geogr-ang (ang-hisz*,niem*)              125.10
+Białołęka   CLXV Liceum Ogólnokształcące                                                   1D_chem-biol        1D_chem-biol [O] biol-chem-ang (ang-hisz*)                         127.70
+Białołęka   CLXV Liceum Ogólnokształcące                                                   1Dgeo-biol          1Dgeo-biol [O] biol-geogr-ang (ang-hisz*)                          122.05
+Białołęka   CV Liceum Ogólnokształcące im. Zbigniewa Herberta                              1Af                 1Af [O] geogr-ang-mat (ang-fra)                                    152.80
+Białołęka   CV Liceum Ogólnokształcące im. Zbigniewa Herberta                              1An                 1An [O] geogr-ang-mat (ang-niem*)                                  157.90
+Białołęka   CV Liceum Ogólnokształcące im. Zbigniewa Herberta                              1Bf                 1Bf [O] biol-chem-ang (ang-fra)                                    157.10
+Białołęka   CV Liceum Ogólnokształcące im. Zbigniewa Herberta                              1Bn                 1Bn [O] biol-chem-ang (ang-niem*)                                  156.20
+Białołęka   CV Liceum Ogólnokształcące im. Zbigniewa Herberta                              1Cf                 1Cf [O] hist-ang-pol (ang-fra)                                     134.20
+Białołęka   CV Liceum Ogólnokształcące im. Zbigniewa Herberta                              1Cn                 1Cn [O] hist-ang-pol (ang-niem*)                                   136.55
+Białołęka   CV Liceum Ogólnokształcące im. Zbigniewa Herberta                              1Df                 1Df [O] geogr-ang-wos (ang-fra)                                    142.70
+Białołęka   CV Liceum Ogólnokształcące im. Zbigniewa Herberta                              1Dn                 1Dn [O] geogr-ang-wos (ang-niem*)                                  143.55
+Białołęka   CV Liceum Ogólnokształcące im. Zbigniewa Herberta                              1Ef                 1Ef [O] hist-ang-wos (ang-fra)                                     134.50
+Białołęka   CV Liceum Ogólnokształcące im. Zbigniewa Herberta                              1En                 1En [O] hist-ang-wos (ang-niem*)                                   137.20
+Białołęka   CV Liceum Ogólnokształcące im. Zbigniewa Herberta                              1Ff                 1Ff [O] fiz-ang-mat (ang-fra)                                      149.85
+Białołęka   CV Liceum Ogólnokształcące im. Zbigniewa Herberta                              1Fn                 1Fn [O] fiz-ang-mat (ang-niem*)                                    156.10
+Bielany     Branżowa Szkoła I stopnia Nr 18                                                1a                  1a [O] Magazynier-logistyk (ang)                                   37.70
+Bielany     Branżowa Szkoła I stopnia Nr 18                                                1c                  1c [O] Sprzedawca (ang)                                            30.30
+Bielany     CXXII Liceum Ogólnokształcące im. Ignacego Domeyki                             1A/1,1B,1C          1A/1,1B,1C [O] fiz-ang-mat (ang-niem*)                             169.05
+Bielany     CXXII Liceum Ogólnokształcące im. Ignacego Domeyki                             1A/2                1A/2 [O] fiz-ang-mat (ang-hisz)                                    179.20
+Bielany     CXXII Liceum Ogólnokształcące im. Ignacego Domeyki                             1D                  1D [O] geogr-ang-mat (ang-niem*)                                   175.40
+Bielany     CXXII Liceum Ogólnokształcące im. Ignacego Domeyki                             1E                  1E [O] biol-chem-mat (ang-niem*)                                   173.50
+Bielany     LII Liceum Ogólnokształcące im. Władysława Stanisława Reymonta                 1a                  1a [O] biol-ang-pol (ang*-hisz*,niem*)                             144.00
+Bielany     LII Liceum Ogólnokształcące im. Władysława Stanisława Reymonta                 1b                  1b [O] geogr-ang-mat (ang*-hisz*,niem*)                            146.60
+Bielany     LII Liceum Ogólnokształcące im. Władysława Stanisława Reymonta                 1c                  1c [O] biz-geogr-ang (ang*-hisz*,niem*)                            142.40
+Bielany     LIX Liceum Ogólnokształcące Mistrzostwa Sportowego im. Janusza Kusocińskiego   1a_piłka_nożna      1a_piłka_nożna [MS] biol-geogr-ang (ang-niem)                      60.00
+Bielany     LIX Liceum Ogólnokształcące Mistrzostwa Sportowego im. Janusza Kusocińskiego   1a_piłka_ręczna     1a_piłka_ręczna [MS] biol-geogr-ang (ang-niem)                     60.00
+Bielany     LIX Liceum Ogólnokształcące Mistrzostwa Sportowego im. Janusza Kusocińskiego   1a_rugby            1a_rugby [MS] biol-geogr-ang (ang-niem)                            50.90
+Bielany     LIX Liceum Ogólnokształcące Mistrzostwa Sportowego im. Janusza Kusocińskiego   1b_pięcibójnowoczes 1b_pięcibójnowoczes [MS] biol-chem-ang (ang-niem)                  103.13
+Bielany     LIX Liceum Ogólnokształcące Mistrzostwa Sportowego im. Janusza Kusocińskiego   1b_piłka_wodna      1b_piłka_wodna [MS] biol-chem-ang (ang-niem)                       24.00
+Bielany     LIX Liceum Ogólnokształcące Mistrzostwa Sportowego im. Janusza Kusocińskiego   1b_pływanie         1b_pływanie [MS] biol-chem-ang (ang-niem)                          300.00
+Bielany     LIX Liceum Ogólnokształcące Mistrzostwa Sportowego im. Janusza Kusocińskiego   1b_ratownictwodne   1b_ratownictwodne [MS] biol-chem-ang (ang-niem)                    35.00
+Bielany     LIX Liceum Ogólnokształcące Mistrzostwa Sportowego im. Janusza Kusocińskiego   1b_triathlon        1b_triathlon [MS] biol-chem-ang (ang-niem)                         30.00
+Bielany     LIX Liceum Ogólnokształcące Mistrzostwa Sportowego im. Janusza Kusocińskiego   1c_koszykówkamęska 1c_koszykówkamęska [MS] geogr-ang-wos (ang-hisz)                    61.00
+Bielany     LIX Liceum Ogólnokształcące Mistrzostwa Sportowego im. Janusza Kusocińskiego   1c_lekkoatletyka    1c_lekkoatletyka [MS] geogr-ang-wos (ang-hisz)                     360.00
+Bielany     LIX Liceum Ogólnokształcące Mistrzostwa Sportowego im. Janusza Kusocińskiego   1c_piłkanożna       1c_piłkanożna [MS] geogr-ang-wos (ang-hisz)                        64.00
+Bielany     LIX Liceum Ogólnokształcące Mistrzostwa Sportowego im. Janusza Kusocińskiego   1d_boks             1d_boks [MS] biz-geogr-ang (ang-niem)                              520.00
+Bielany     LIX Liceum Ogólnokształcące Mistrzostwa Sportowego im. Janusza Kusocińskiego   1d_judo             1d_judo [MS] biz-geogr-ang (ang-niem)                              60.00
+Bielany     LIX Liceum Ogólnokształcące Mistrzostwa Sportowego im. Janusza Kusocińskiego   1d_strzelectwosport 1d_strzelectwosport [MS] biz-geogr-ang (ang-niem)                  76.00
+Bielany     LIX Liceum Ogólnokształcące Mistrzostwa Sportowego im. Janusza Kusocińskiego   1d_szermierka       1d_szermierka [MS] biz-geogr-ang (ang-niem)                        40.64
+Bielany     LIX Liceum Ogólnokształcące Mistrzostwa Sportowego im. Janusza Kusocińskiego   1d_taekwondo_olimp 1d_taekwondo_olimp [MS] biz-geogr-ang (ang-niem)                    61.13
+Bielany     LIX Liceum Ogólnokształcące Mistrzostwa Sportowego im. Janusza Kusocińskiego   1d_zapasy           1d_zapasy [MS] biz-geogr-ang (ang-niem)                            62.75
+Bielany     LIX Liceum Ogólnokształcące Mistrzostwa Sportowego im. Janusza Kusocińskiego   1e_piłkasiatkowa(m) 1e_piłkasiatkowa(m) [MS] ang-pol-wos (ang-niem)                    86.00
+Bielany     LIX Liceum Ogólnokształcące Mistrzostwa Sportowego im. Janusza Kusocińskiego   1e_piłkasiatkowa(ż) 1e_piłkasiatkowa(ż) [MS] ang-pol-wos (ang-niem)                    66.00
+Bielany     LX Liceum Ogólnokształcące im. Wojciecha Górskiego                             1LA                 1LA [O] ang-hiszp-pol (ang-hisz)                                   120.05
+Bielany     LX Liceum Ogólnokształcące im. Wojciecha Górskiego                             1LB                 1LB [O] geogr-ang-hiszp (ang-hisz)                                 128.65
+Bielany     LX Liceum Ogólnokształcące im. Wojciecha Górskiego                             1LC                 1LC [O] hist-wos (ang-hisz,niem)                                   122.10
+Bielany     Technikum Ekonomiczne nr 5                                                     1E                  1E [O] Technik ekonomista (ang-niem)                               98.85
+Bielany     Technikum Ekonomiczne nr 5                                                     1H                  1H [O] Technik handlowiec (ang-niem)                               76.60
+Bielany     Technikum Ekonomiczne nr 5                                                     1L                  1L [O] Technik logistyk (ang-niem)                                 107.75
+Bielany     Technikum Ekonomiczne nr 5                                                     1T                  1T [O] Technik hotelarstwa (ang-niem)                              80.70
+Bielany     Technikum Księgarskie im. Stefana Żeromskiego                                  1tg                 1tg [O] Technik grafiki i poligrafii cyfrowej (ang*-hisz*,niem*)   103.50
+Bielany     Technikum Księgarskie im. Stefana Żeromskiego                                  1tk                 1tk [O] Technik księgarstwa (ang*-hisz*,niem*)                     25.05
+Bielany     Technikum Księgarskie im. Stefana Żeromskiego                                  1tr                 1tr [O] Technik reklamy (ang*-niem*,hisz*)                         99.20
+Bielany     Technikum nr 25 im. Stanisława Staszica                                        1ai                 1ai [O] Technik informatyk (ang-niem)                              109.10
+Bielany     Technikum nr 25 im. Stanisława Staszica                                        1ap                 1ap [O] Technik programista (ang-niem)                             121.40
+Bielany     Technikum nr 25 im. Stanisława Staszica                                        1as                 1as [O] Technik spedytor (ang-niem)                                62.70
+Bielany     Technikum nr 25 im. Stanisława Staszica                                        1at                 1at [O] Technik organizacji turystyki (ang-hisz)                   92.30
+Bielany     XCIV Liceum Ogólnokształcące im. gen. Stanisława Maczka                        1Ah                 1Ah [O] fiz-mat (ang-hisz)                                         161.55
+Bielany     XCIV Liceum Ogólnokształcące im. gen. Stanisława Maczka                        1An                 1An [O] fiz-mat (ang-niem)                                         159.60
+Bielany     XCIV Liceum Ogólnokształcące im. gen. Stanisława Maczka                        1Bh                 1Bh [O] hist-pol-wos (ang-hisz)                                    145.55
+Bielany     XCIV Liceum Ogólnokształcące im. gen. Stanisława Maczka                        1Bw                 1Bw [O] hist-pol-wos (ang-wlo)                                     139.45
+Bielany     XCIV Liceum Ogólnokształcące im. gen. Stanisława Maczka                        1Ch                 1Ch [O] biol-chem (ang-hisz)                                       167.40
+Bielany     XCIV Liceum Ogólnokształcące im. gen. Stanisława Maczka                        1Cw                 1Cw [O] biol-chem (ang-wlo)                                        163.80
+Bielany     XCIV Liceum Ogólnokształcące im. gen. Stanisława Maczka                        1D                  1D [O] geogr-mat (ang-hisz)                                        161.20
+Bielany   XCIV Liceum Ogólnokształcące im. gen. Stanisława Maczka                                        1E                1E [O] ang-hiszp-pol (ang-hisz)            157.85
+Bielany   XCIV Liceum Ogólnokształcące im. gen. Stanisława Maczka                                        1Fh               1Fh [O] geogr-mat (ang-hisz)               158.65
+Bielany   XCIV Liceum Ogólnokształcące im. gen. Stanisława Maczka                                        1Fn               1Fn [O] geogr-mat (ang-niem)               159.25
+Bielany   XLI Liceum Ogólnokształcące im. Joachima Lelewela                                              1A/1              1A/1 [O] fiz-ang-mat (ang-niem)            170.75
+Bielany   XLI Liceum Ogólnokształcące im. Joachima Lelewela                                              1A/2              1A/2 [O] chem-ang-mat (ang-hisz)           170.00
+Bielany   XLI Liceum Ogólnokształcące im. Joachima Lelewela                                              1B/1              1B/1 [D] biz-geogr-mat (ang-niem)          180.78
+Bielany   XLI Liceum Ogólnokształcące im. Joachima Lelewela                                              1B/2              1B/2 [D] biz-geogr-mat (ang-hisz)          185.42
+Bielany   XLI Liceum Ogólnokształcące im. Joachima Lelewela                                              1C/1              1C/1 [O] biol-chem-mat (ang-niem)          171.10
+Bielany   XLI Liceum Ogólnokształcące im. Joachima Lelewela                                              1C/2              1C/2 [O] biol-chem-mat (ang-hisz)          174.20
+Bielany   XLI Liceum Ogólnokształcące im. Joachima Lelewela                                              1E/1              1E/1 [O] hist-ang-pol (ang-niem)           156.15
+Bielany   XLI Liceum Ogólnokształcące im. Joachima Lelewela                                              1E/2              1E/2 [O] hist-ang-pol (ang-hisz)           165.80
+Bielany   XLI Liceum Ogólnokształcące im. Joachima Lelewela                                              1P                1P [O] hist-pol-wos (ang-fra)              155.00
+Bielany   XXII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Jose Marti                         0H                0H [DW] geogr-hiszp-pol (hisz-ang)         220.20
+Bielany   XXII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Jose Marti                         1A                1A [O] chem-fiz-mat (ang-niem*)            163.40
+Bielany   XXII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Jose Marti                         1B                1B [O] geogr-ang-mat (ang-hisz*)           171.10
+Bielany   XXII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Jose Marti                         1C                1C [O] biol-chem-mat (ang-hisz*)           170.15
+Bielany   XXII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Jose Marti                         1Dh               1Dh [O] hist-ang-pol (ang-hisz*)           158.45
+Bielany   XXII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Jose Marti                         1Dw               1Dw [O] ang-pol-wos (ang-hisz*)            162.60
+Bielany   XXXIX Liceum Ogólnokształcące im. Lotnictwa Polskiego                                          1Ah               1Ah [O] hist-ang-pol (ang-hisz)            129.95
+Bielany   XXXIX Liceum Ogólnokształcące im. Lotnictwa Polskiego                                          1An               1An [O] hist-ang-pol (ang-niem)            125.45
+Bielany   XXXIX Liceum Ogólnokształcące im. Lotnictwa Polskiego                                          1Bh               1Bh [O] biol-chem-ang (ang-hisz)           141.45
+Bielany   XXXIX Liceum Ogólnokształcące im. Lotnictwa Polskiego                                          1Bn               1Bn [O] biol-chem-ang (ang-niem)           129.90
+Bielany   XXXIX Liceum Ogólnokształcące im. Lotnictwa Polskiego                                          1Ch               1Ch [O] biol-chem-ang (ang-hisz)           137.30
+Bielany   XXXIX Liceum Ogólnokształcące im. Lotnictwa Polskiego                                          1Cn               1Cn [O] biol-chem-ang (ang-niem)           121.45
+Bielany   XXXIX Liceum Ogólnokształcące im. Lotnictwa Polskiego                                          1Dh               1Dh [O] biol-geogr-ang (ang-hisz)          133.05
+Bielany   XXXIX Liceum Ogólnokształcące im. Lotnictwa Polskiego                                          1Dn               1Dn [O] biol-geogr-ang (ang-niem)          120.35
+Mokotów   Branżowa Szkoła I stopnia nr 31                                                                1A                1A [O] Fryzjer (ang)                       29.45
+Mokotów   Branżowa Szkoła I stopnia nr 31                                                                1Aw               1Aw [O] wielozawodowa (ang,ros)            39.70
+Mokotów   Branżowa Szkoła I stopnia nr 31                                                                1Bw               1Bw [O] wielozawodowa (ang,ros)            59.60
+Mokotów   Branżowa Szkoła I stopnia nr 31                                                                1Cw               1Cw [O] wielozawodowa (ang,ros)            41.80
+Mokotów   Branżowa Szkoła I stopnia nr 31                                                                1Dw               1Dw [O] wielozawodowa (ang)                39.30
+Mokotów   Branżowa Szkoła I stopnia nr 4                                                                 1BA               1BA [O] Fryzjer (ang*)                     59.60
+Mokotów   CLV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Bohaterek Powstania Warszawskiego   1A                1A [D] hist-pol-mat (ang-hisz*)            181.68
+Mokotów   CLV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Bohaterek Powstania Warszawskiego   1F                1F [D] fiz-mat (ang-niem*)                 186.50
+Mokotów   CLV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Bohaterek Powstania Warszawskiego   1H                1H [D] geogr-hiszp-mat (ang-hisz*)         190.42
+Mokotów   CLV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Bohaterek Powstania Warszawskiego   1M                1M [O] biol-chem-mat (ang-hisz*)           172.60
+Mokotów   CLVI Liceum Ogólnokształcące Integracyjne „Przy Łazienkach Królewskich”                        1A                1A [I-o] hist-pol (ang-hisz*,niem*)        132.45
+Mokotów   CLVI Liceum Ogólnokształcące Integracyjne „Przy Łazienkach Królewskich”                        1Ain              1Ain [I-i] hist-pol (ang-hisz*,niem*)      n.d.
+Mokotów   CLVI Liceum Ogólnokształcące Integracyjne „Przy Łazienkach Królewskich”                        1B                1B [I-o] geogr-ang (ang-hisz*,niem*)       140.30
+Mokotów   CLVI Liceum Ogólnokształcące Integracyjne „Przy Łazienkach Królewskich”                        1Bin              1Bin [I-i] geogr-ang (ang-hisz*,niem*)     n.d.
+Mokotów   CLVI Liceum Ogólnokształcące Integracyjne „Przy Łazienkach Królewskich”                        1C                1C [I-o] biol-chem (ang-hisz*,niem*)       142.20
+Mokotów   CLVI Liceum Ogólnokształcące Integracyjne „Przy Łazienkach Królewskich”                        1Cin              1Cin [I-i] biol-chem (ang-hisz*,niem*)     n.d.
+Mokotów   CLVI Liceum Ogólnokształcące Integracyjne „Przy Łazienkach Królewskich”                        1D                1D [I-o] inf-mat (ang-hisz*,niem*)         139.50
+Mokotów   CLVI Liceum Ogólnokształcące Integracyjne „Przy Łazienkach Królewskich”                        1Din              1Din [I-i] inf-mat (ang-hisz*,niem*)       n.d.
+Mokotów   CLXIV Liceum Ogólnokształcące Mistrzostwa Sportowego                                           1a_piłka_nożna    1a_piłka_nożna [MS] geogr-ang (ang-niem)   70.00
+Mokotów   CLXIV Liceum Ogólnokształcące Mistrzostwa Sportowego                                           1a_szermierka     1a_szermierka [MS] geogr-ang (ang-niem)    50.20
+Mokotów   CLXIV Liceum Ogólnokształcące Mistrzostwa Sportowego                                           1b_cheerleading   1b_cheerleading [MS] biol-ang (ang-niem)   16.00
+Mokotów   CLXIV Liceum Ogólnokształcące Mistrzostwa Sportowego                                           1b_pływanie       1b_pływanie [MS] biol-ang (ang-niem)       400.00
+Mokotów   CLXIV Liceum Ogólnokształcące Mistrzostwa Sportowego                                           1b_ratownictwo    1b_ratownictwo [MS] biol-ang (ang-niem)    30.00
+Mokotów   CX Liceum Ogólnokształcące im. Roberta Schumana                                                1A1               1A1 [O] geogr-ang-niem (ang-niem)          128.65
+Mokotów   CX Liceum Ogólnokształcące im. Roberta Schumana                                                1A2               1A2 [O] geogr-ang-hiszp (ang-hisz)         137.10
+Mokotów   CX Liceum Ogólnokształcące im. Roberta Schumana                                                1B1               1B1 [O] geogr-ang-wos (ang-hisz)           134.30
+Mokotów   CX Liceum Ogólnokształcące im. Roberta Schumana                                                1B2               1B2 [O] geogr-ang-wos (ang-wlo)            125.70
+Mokotów   CX Liceum Ogólnokształcące im. Roberta Schumana                                                1C1               1C1 [O] hist-pol-wos (ang-niem)            126.00
+Mokotów   CX Liceum Ogólnokształcące im. Roberta Schumana                                                1C2               1C2 [O] hist-pol-wos (ang-wlo)             130.95
+Mokotów   LXV Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. gen. Józefa Bema                   1AH               1AH [I-o] geogr-mat (ang-hisz)             150.25
+Mokotów   LXV Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. gen. Józefa Bema                   1A-i              1A-i [I-i] geogr-mat (ang-niem,hisz)       n.d.
+Mokotów   LXV Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. gen. Józefa Bema                   1AN               1AN [I-o] geogr-mat (ang-niem)             142.75
+Mokotów   LXV Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. gen. Józefa Bema                   1BH               1BH [I-o] biol-chem (ang-hisz)             151.35
+Mokotów   LXV Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. gen. Józefa Bema                   1B-i              1B-i [I-i] biol-chem (ang-hisz,ros)        n.d.
+Mokotów   LXV Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. gen. Józefa Bema                   1BR               1BR [I-o] biol-chem (ang-ros)              140.95
+Mokotów   LXV Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. gen. Józefa Bema                   1CF               1CF [O] h.szt.-pol (ang-fra)               129.75
+Mokotów   LXV Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. gen. Józefa Bema                   1CW               1CW [O] h.szt.-pol (ang-wlo)               126.05
+Mokotów   LXV Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. gen. Józefa Bema                   1DN               1DN [O] hist-wos (ang-niem)                137.60
+Mokotów   LXV Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. gen. Józefa Bema                   1DR               1DR [O] hist-wos (ang-ros)                 126.75
+Mokotów   LXV Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. gen. Józefa Bema                   1E-i-N            1E-i-N [I-i] ang-niem (ang-niem)           n.d.
+Mokotów   LXV Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. gen. Józefa Bema                   1E-i-R            1E-i-R [I-i] ang-ros (ang-ros)             n.d.
+Mokotów   LXV Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. gen. Józefa Bema                   1EN               1EN [I-o] ang-niem (ang-niem)              135.85
+Mokotów   LXV Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. gen. Józefa Bema                   1ER               1ER [I-o] ang-ros (ang-ros)                128.55
+Mokotów   LXVIII Liceum Ogólnokształcące im. Tytusa Chałubińskiego                                       1t                1t [O] biol-geogr-ang (ang-niem*)          118.65
+Mokotów   LXVIII Liceum Ogólnokształcące im. Tytusa Chałubińskiego                                       1U                1U [O] geogr-ang-wos (ang-hisz,niem*)      121.20
+Mokotów   LXVIII Liceum Ogólnokształcące im. Tytusa Chałubińskiego                                       1W                1W [O] hist-ang-pol (ang-hisz,niem*)       121.40
+Mokotów   LXXX Liceum Ogólnokształcące im. Leopolda Staffa                                               1la               1la [O] inf-ang-mat (ang-hisz)             153.75
+Mokotów   LXXX Liceum Ogólnokształcące im. Leopolda Staffa                                               1lb               1lb [O] inf-ang-mat (ang-niem)             146.00
+Mokotów   Technikum Ekonomiczne nr 8                                                                     1Ah               1Ah [O] Technik rachunkowości (ang-hisz)   89.30
+Mokotów   Technikum Ekonomiczne nr 8                                                         1An             1An [O] Technik rachunkowości (ang-niem)                      65.20
+Mokotów   Technikum Ekonomiczne nr 8                                                         1Bh             1Bh [O] Technik ekonomista (ang-hisz)                         116.80
+Mokotów   Technikum Ekonomiczne nr 8                                                         1Bn             1Bn [O] Technik ekonomista (ang-niem)                         91.30
+Mokotów   Technikum Ekonomiczne nr 8                                                         1C              1C [O] Technik reklamy (ang-hisz)                             70.35
+Mokotów   Technikum Hotelarsko-Turystyczno-Gastronomiczne nr 21                              1AH             1AH [O] Technik hotelarstwa (ang-niem)                        87.05
+Mokotów   Technikum Hotelarsko-Turystyczno-Gastronomiczne nr 21                              1DT             1DT [O] Technik organizacji turystyki (ang-hisz)              83.00
+Mokotów   Technikum Hotelarsko-Turystyczno-Gastronomiczne nr 21                              1GO             1GO [O] Technik żywienia i usług gastronomicznych (ang-fra)   74.90
+Mokotów   Technikum Mechatroniczne nr 1                                                      1ta/h           1ta/h [D] Technik informatyk (ang-hisz)                       178.66
+Mokotów   Technikum Mechatroniczne nr 1                                                      1ta/n           1ta/n [D] Technik informatyk (ang-niem)                       176.48
+Mokotów   Technikum Mechatroniczne nr 1                                                      1tb/inf/hisz    1tb/inf/hisz [O] Technik informatyk (ang-hisz)                164.40
+Mokotów   Technikum Mechatroniczne nr 1                                                      1tb/inf/niem    1tb/inf/niem [O] Technik informatyk (ang-niem)                164.35
+Mokotów   Technikum Mechatroniczne nr 1                                                      1tb/prg/hiszp   1tb/prg/hiszp [O] Technik programista (ang-hisz)              177.35
+Mokotów   Technikum Mechatroniczne nr 1                                                      1tb/prg/niem    1tb/prg/niem [O] Technik programista (ang-niem)               174.25
+Mokotów   Technikum Mechatroniczne nr 1                                                      1tm1            1tm1 [O] Technik mechatronik (ang-hisz)                       168.55
+Mokotów   Technikum Mechatroniczne nr 1                                                      1tm2            1tm2 [O] Technik mechatronik (ang-niem)                       167.35
+Mokotów   Technikum Odzieżowe i Fryzjerskie im. Marii Bratkowskiej                           1TFC            1TFC [O] Technik usług fryzjerskich (ang*-hisz*)              87.00
+Mokotów   Technikum Odzieżowe i Fryzjerskie im. Marii Bratkowskiej                           1TFD            1TFD [O] Technik usług fryzjerskich (ang*-niem*)              84.65
+Mokotów   Technikum Odzieżowe i Fryzjerskie im. Marii Bratkowskiej                           1TFI/2          1TFI/2 [I-i] Technik usług fryzjerskich (ang*-niem*)          n.d.
+Mokotów   Technikum Odzieżowe i Fryzjerskie im. Marii Bratkowskiej                           1TMA            1TMA [O] Technik przemysłu mody (ang*-hisz*)                  82.05
+Mokotów   Technikum Odzieżowe i Fryzjerskie im. Marii Bratkowskiej                           1TSA/B          1TSA/B [O] Technik stylista (ang*-niem*)                      88.90
+Mokotów   Technikum Ogrodnicze                                                               1TAK            1TAK [O] Technik architektury krajobrazu (ang-niem*)          52.35
+Mokotów   Technikum Ogrodnicze                                                               1TO             1TO [O] Technik ogrodnik (ang-niem*)                          37.30
+Mokotów   Technikum Ogrodnicze                                                               1TOŚ            1TOŚ [O] Technik ochrony środowiska (ang-niem*)               27.50
+Mokotów   Technikum Ogrodnicze                                                               1TW             1TW [O] Technik weterynarii (ang-niem*)                       113.50
+Mokotów   VI Liceum Ogólnokształcące im. Tadeusza Reytana                                    1/1             1/1 [O] fiz-ang-mat (ang-niem)                                162.80
+Mokotów   VI Liceum Ogólnokształcące im. Tadeusza Reytana                                    1/2             1/2 [O] fiz-ang-mat (ang-hisz)                                164.05
+Mokotów   VI Liceum Ogólnokształcące im. Tadeusza Reytana                                    1/3             1/3 [O] biz-mat-wos (ang-hisz)                                164.65
+Mokotów   VI Liceum Ogólnokształcące im. Tadeusza Reytana                                    1/4             1/4 [O] biz-geogr-mat (ang-niem)                              166.30
+Mokotów   VI Liceum Ogólnokształcące im. Tadeusza Reytana                                    1/5             1/5 [O] biol-chem-mat (ang-niem)                              168.30
+Mokotów   VI Liceum Ogólnokształcące im. Tadeusza Reytana                                    1/6             1/6 [O] biol-chem-ang (ang-niem)                              167.70
+Mokotów   X Liceum Ogólnokształcące im. Królowej Jadwigi                                     1AF             1AF [O] hist-pol-wos (ang-fra)                                153.65
+Mokotów   X Liceum Ogólnokształcące im. Królowej Jadwigi                                     1AH             1AH [O] hist-pol-wos (ang-hisz)                               156.35
+Mokotów   X Liceum Ogólnokształcące im. Królowej Jadwigi                                     1BH             1BH [O] biol-fiz-mat (ang-hisz)                               157.55
+Mokotów   X Liceum Ogólnokształcące im. Królowej Jadwigi                                     1BN             1BN [O] biol-fiz-mat (ang-niem)                               153.15
+Mokotów   X Liceum Ogólnokształcące im. Królowej Jadwigi                                     1CH             1CH [O] biz-geogr-mat (ang-hisz)                              164.80
+Mokotów   X Liceum Ogólnokształcące im. Królowej Jadwigi                                     1CN             1CN [O] biz-geogr-mat (ang-niem)                              162.60
+Mokotów   X Liceum Ogólnokształcące im. Królowej Jadwigi                                     1DF             1DF [O] biol-chem-mat (ang-fra)                               163.00
+Mokotów   X Liceum Ogólnokształcące im. Królowej Jadwigi                                     1DH             1DH [O] biol-chem-mat (ang-hisz)                              167.50
+Mokotów   X Liceum Ogólnokształcące im. Królowej Jadwigi                                     1EH             1EH [O] geogr-mat-wos (ang-hisz)                              161.15
+Mokotów   X Liceum Ogólnokształcące im. Królowej Jadwigi                                     1EN             1EN [O] geogr-mat-wos (ang-niem)                              158.25
+Mokotów   XLII Liceum Ogólnokształcące im. Marii Konopnickiej                                1a              1a [O] fiz-ang-mat (ang-niem)                                 140.65
+Mokotów   XLII Liceum Ogólnokształcące im. Marii Konopnickiej                                1b              1b [O] hist-ang-pol (ang-wlo)                                 137.85
+Mokotów   XLII Liceum Ogólnokształcące im. Marii Konopnickiej                                1c              1c [O] biol-chem-ang (ang-fra)                                153.80
+Mokotów   XLII Liceum Ogólnokształcące im. Marii Konopnickiej                                1d              1d [O] geogr-ang-mat (ang-fra)                                139.45
+Mokotów   XLII Liceum Ogólnokształcące im. Marii Konopnickiej                                1e              1e [O] geogr-ang-mat (ang-niem)                               135.85
+Mokotów   XLIII Liceum Ogólnokształcące im. Kazimierza Wielkiego                             1Ah             1Ah [O] geogr-ang-mat (ang-hisz)                              161.20
+Mokotów   XLIII Liceum Ogólnokształcące im. Kazimierza Wielkiego                             1An             1An [O] geogr-ang-mat (ang-niem)                              155.25
+Mokotów   XLIII Liceum Ogólnokształcące im. Kazimierza Wielkiego                             1Bh             1Bh [O] biol-ang-pol (ang-hisz)                               164.20
+Mokotów   XLIII Liceum Ogólnokształcące im. Kazimierza Wielkiego                             1Bn             1Bn [O] biol-ang-pol (ang-niem)                               158.15
+Mokotów   XLIII Liceum Ogólnokształcące im. Kazimierza Wielkiego                             1Cf             1Cf [O] biol-chem-ang (ang-fra)                               153.55
+Mokotów   XLIII Liceum Ogólnokształcące im. Kazimierza Wielkiego                             1Ch             1Ch [O] biol-chem-ang (ang-hisz)                              159.80
+Mokotów   XLIII Liceum Ogólnokształcące im. Kazimierza Wielkiego                             1Df             1Df [O] hist-ang-wos (ang-fra)                                151.35
+Mokotów   XLIII Liceum Ogólnokształcące im. Kazimierza Wielkiego                             1Dr             1Dr [O] hist-ang-wos (ang-ros)                                145.10
+Mokotów   XLIV Liceum Ogólnokształcące im. Stefana Banacha                                   1A1             1A1 [O] fiz-mat (ang-niem)                                    155.00
+Mokotów   XLIV Liceum Ogólnokształcące im. Stefana Banacha                                   1A2             1A2 [O] fiz-mat (ang-fra)                                     144.00
+Mokotów   XLIV Liceum Ogólnokształcące im. Stefana Banacha                                   1B1             1B1 [O] biol-chem (ang-niem)                                  163.65
+Mokotów   XLIV Liceum Ogólnokształcące im. Stefana Banacha                                   1B2             1B2 [O] biol-chem (ang-fra)                                   162.00
+Mokotów   XLIV Liceum Ogólnokształcące im. Stefana Banacha                                   1C1             1C1 [O] geogr-ang-mat (ang-niem)                              156.55
+Mokotów   XLIV Liceum Ogólnokształcące im. Stefana Banacha                                   1C2             1C2 [O] geogr-ang-mat (ang-fra)                               151.40
+Mokotów   XLIV Liceum Ogólnokształcące im. Stefana Banacha                                   1D1             1D1 [O] hist-ang-wos (ang-hisz)                               152.70
+Mokotów   XLIV Liceum Ogólnokształcące im. Stefana Banacha                                   1D2             1D2 [O] hist-ang-wos (ang-fra)                                145.95
+Mokotów   XLIV Liceum Ogólnokształcące im. Stefana Banacha                                   1E1             1E1 [O] biz-ang-mat (ang-hisz)                                160.40
+Mokotów   XLIV Liceum Ogólnokształcące im. Stefana Banacha                                   1E2             1E2 [O] biz-ang-mat (ang-fra)                                 150.80
+Mokotów   XLIX Liceum Ogólnokształcące z Odd. Dwujęzycznymi im. Johanna Wolfganga Goethego   1A              1A [O] hist-ang-pol (ang-niem*)                               143.60
+Mokotów   XLIX Liceum Ogólnokształcące z Odd. Dwujęzycznymi im. Johanna Wolfganga Goethego   1B1             1B1 [O] geogr-ang-niem (niem*-ang)                            154.55
+Mokotów   XLIX Liceum Ogólnokształcące z Odd. Dwujęzycznymi im. Johanna Wolfganga Goethego   1B2             1B2 [O] geogr-ang-hiszp (hisz*-ang)                           161.05
+Mokotów   XLIX Liceum Ogólnokształcące z Odd. Dwujęzycznymi im. Johanna Wolfganga Goethego   1C              1C [O] inf-ang-mat (ang-niem*)                                161.15
+Mokotów   XLIX Liceum Ogólnokształcące z Odd. Dwujęzycznymi im. Johanna Wolfganga Goethego   1D              1D [O] geogr-ang-mat (ang-niem*)                              155.90
+Mokotów   XLIX Liceum Ogólnokształcące z Odd. Dwujęzycznymi im. Johanna Wolfganga Goethego   1E              1E [D] hist-ang-wos (niem-ang)                                99.70
+Mokotów   XXVIII Liceum Ogólnokształcące im. Jana Kochanowskiego                             1A1             1A1 [O] fiz-mat (ang-niem)                                    171.10
+Mokotów   XXVIII Liceum Ogólnokształcące im. Jana Kochanowskiego                             1A2             1A2 [O] fiz-mat (ang-hisz)                                    173.35
+Mokotów   XXVIII Liceum Ogólnokształcące im. Jana Kochanowskiego                             1B1             1B1 [O] fiz-inf-mat (ang-niem)                                168.80
+Mokotów   XXVIII Liceum Ogólnokształcące im. Jana Kochanowskiego                             1B2             1B2 [O] fiz-inf-mat (ang-hisz)                                171.25
+Mokotów   XXVIII Liceum Ogólnokształcące im. Jana Kochanowskiego                             1C1             1C1 [O] geogr-niem-mat (ang-niem)                             172.95
+Mokotów   XXVIII Liceum Ogólnokształcące im. Jana Kochanowskiego                             1C2             1C2 [O] geogr-hiszp-mat (ang-hisz)                            175.80
+Mokotów   XXVIII Liceum Ogólnokształcące im. Jana Kochanowskiego                                                1D1             1D1 [O] biol-chem (ang-niem)                                             173.10
+Mokotów   XXVIII Liceum Ogólnokształcące im. Jana Kochanowskiego                                                1D2             1D2 [O] biol-chem (ang-fra)                                              173.20
+Mokotów   XXVIII Liceum Ogólnokształcące im. Jana Kochanowskiego                                                1E1             1E1 [O] hist-pol-wos (ang-niem)                                          161.55
+Mokotów   XXVIII Liceum Ogólnokształcące im. Jana Kochanowskiego                                                1E2             1E2 [O] hist-pol-wos (ang-hisz)                                          168.75
+Mokotów   XXXIV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Miguela de Cervantesa                    0H              0H [DW] geogr-hist-hiszp (hisz-ang)                                      228.45
+Mokotów   XXXIV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Miguela de Cervantesa                    1a              1a [O] geogr-hiszp-mat (hisz*-ang)                                       166.30
+Mokotów   XXXIV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Miguela de Cervantesa                    1c              1c [O] h.szt.-hiszp-pol (hisz*-ang)                                      214.25
+Mokotów   XXXIV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Miguela de Cervantesa                    1d              1d [O] ang-hiszp-pol (hisz*-ang)                                         163.25
+Mokotów   XXXIV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Miguela de Cervantesa                    1e              1e [O] hist-ang-hiszp (hisz*-ang)                                        152.40
+Mokotów   XXXIV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Miguela de Cervantesa                    1f              1f [O] geogr-ang-hiszp (hisz*-ang)                                       164.20
+Ochota    Branżowa Szkoła Samochodowa I stopnia nr 2                                                            1ABC/bsI        1ABC/bsI [O] Mechanik pojazdów samochodowych (ang)                       19.00
+Ochota    CLX Liceum Ogólnokształcące im. gen. dyw. Stefana Roweckiego „Grota”                                  1a1             1a1 [O] geogr-mat (ang-niem)                                             140.45
+Ochota    CLX Liceum Ogólnokształcące im. gen. dyw. Stefana Roweckiego „Grota”                                  1a2             1a2 [O] geogr-mat (ang-fra)                                              139.10
+Ochota    CLX Liceum Ogólnokształcące im. gen. dyw. Stefana Roweckiego „Grota”                                  1b              1b [O] biz-ang (ang-niem)                                                136.70
+Ochota    CLX Liceum Ogólnokształcące im. gen. dyw. Stefana Roweckiego „Grota”                                  1c1             1c1 [O] biol (ang-hisz)                                                  154.25
+Ochota    CLX Liceum Ogólnokształcące im. gen. dyw. Stefana Roweckiego „Grota”                                  1c2             1c2 [O] biol (ang-niem)                                                  142.95
+Ochota    CLX Liceum Ogólnokształcące im. gen. dyw. Stefana Roweckiego „Grota”                                  1d              1d [O] mat (ang-niem)                                                    131.85
+Ochota    CLX Liceum Ogólnokształcące im. gen. dyw. Stefana Roweckiego „Grota”                                  1e1             1e1 [O] ang-hiszp-pol (ang-hisz)                                         145.30
+Ochota    CLX Liceum Ogólnokształcące im. gen. dyw. Stefana Roweckiego „Grota”                                  1e2             1e2 [O] ang-niem-pol (ang-niem)                                          133.10
+Ochota    LXIX Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Bohaterów Powstania Warszawskiego 1944   1A/1            1A/1 [I-o] hist-wos (ang-ros,niem)                                       130.10
+Ochota    LXIX Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Bohaterów Powstania Warszawskiego 1944   1A/2            1A/2 [I-i] hist-wos (ang-ros,niem)                                       n.d.
+Ochota    LXIX Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Bohaterów Powstania Warszawskiego 1944   1B/1            1B/1 [I-o] geogr-ang (ang-hisz)                                          149.85
+Ochota    LXIX Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Bohaterów Powstania Warszawskiego 1944   1B/2            1B/2 [I-i] geogr-ang (ang-hisz)                                          n.d.
+Ochota    LXIX Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Bohaterów Powstania Warszawskiego 1944   1C/1            1C/1 [I-o] biol-chem (ang-niem)                                          147.90
+Ochota    LXIX Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Bohaterów Powstania Warszawskiego 1944   1C/2            1C/2 [I-i] biol-chem (ang-niem)                                          n.d.
+Ochota    LXIX Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Bohaterów Powstania Warszawskiego 1944   1D              1D [O] inf-mat (ang-niem)                                                132.40
+Ochota    LXIX Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Bohaterów Powstania Warszawskiego 1944   1E              1E [O] ang-pol (ang-hisz,niem)                                           140.80
+Ochota    Technikum nr 10 im. Eugeniusza Kwiatkowskiego                                                         1AE(ang-niem)   1AE(ang-niem) [O] Technik ekonomista (ang-niem)                          93.05
+Ochota    Technikum nr 10 im. Eugeniusza Kwiatkowskiego                                                         1AE(ang-ros)    1AE(ang-ros) [O] Technik ekonomista (ang-ros)                            80.45
+Ochota    Technikum nr 10 im. Eugeniusza Kwiatkowskiego                                                         1AH(ang-niem)   1AH(ang-niem) [O] Technik handlowiec (ang-niem)                          65.25
+Ochota    Technikum nr 10 im. Eugeniusza Kwiatkowskiego                                                         1AH(ang-ros)    1AH(ang-ros) [O] Technik handlowiec (ang-ros)                            44.20
+Ochota    Technikum nr 10 im. Eugeniusza Kwiatkowskiego                                                         1AR(ang-niem)   1AR(ang-niem) [O] Technik reklamy (ang-niem)                             76.30
+Ochota    Technikum nr 10 im. Eugeniusza Kwiatkowskiego                                                         1AR(ang-ros)    1AR(ang-ros) [O] Technik reklamy (ang-ros)                               74.25
+Ochota    Technikum nr 10 im. Eugeniusza Kwiatkowskiego                                                         1BR(ang-wł)     1BR(ang-wł) [O] Technik reklamy (ang-wlo)                                66.40
+Ochota    Technikum nr 24                                                                                       1ABI            1ABI [O] Technik informatyk (ang-niem,ros)                               100.15
+Ochota    Technikum nr 24                                                                                       1CDG            1CDG [O] Technik grafiki i poligrafii cyfrowej (ang-niem,ros)            81.75
+Ochota    Technikum nr 7                                                                                        1e              1e [O] Technik elektryk (ang-niem)                                       108.00
+Ochota    Technikum nr 7                                                                                        1eg             1eg [O] Technik elektroenergetyk transportu szynowego (ang-niem)         28.15
+Ochota    Technikum nr 7                                                                                        1la             1la [O] Technik logistyk (ang-niem)                                      81.50
+Ochota    Technikum nr 7                                                                                        1lb             1lb [O] Technik logistyk (ang-niem)                                      80.15
+Ochota    Technikum nr 7                                                                                        1oze            1oze [O] Technik urządzeń i systemów energetyki odnawialnej (ang-niem)   59.80
+Ochota    Technikum nr 7                                                                                        1tk             1tk [O] Technik transportu kolejowego (ang-niem)                         65.30
+Ochota    Technikum Samochodowe nr 1 im. Romana Macieja Pijanowskiego                                           1ABC            1ABC [O] Technik pojazdów samochodowych (ang-niem*)                      82.45
+Ochota    Technikum Samochodowe nr 1 im. Romana Macieja Pijanowskiego                                           1D              1D [O] Technik pojazdów samochodowych (ang-ros*)                         77.50
+Ochota    VII Liceum Ogólnokształcące im. Juliusza Słowackiego                                                  1A              1A [O] hist-pol-wos (ang-fra*)                                           172.90
+Ochota    VII Liceum Ogólnokształcące im. Juliusza Słowackiego                                                  1B              1B [O] geogr-niem-mat (ang-niem*)                                        172.80
+Ochota    VII Liceum Ogólnokształcące im. Juliusza Słowackiego                                                  1C              1C [O] fiz-inf-mat (ang-niem*)                                           172.45
+Ochota    VII Liceum Ogólnokształcące im. Juliusza Słowackiego                                                  1D              1D [O] hist-pol-wos (ang-fra*)                                           170.35
+Ochota    VII Liceum Ogólnokształcące im. Juliusza Słowackiego                                                  1E              1E [O] biol-chem (ang-niem*)                                             173.00
+Ochota    XIV Liceum Ogólnokształcące im. Stanisława Staszica                                                   1AB             1AB [O] fiz-mat (ang-niem,hisz*)                                         403.70
+Ochota    XIV Liceum Ogólnokształcące im. Stanisława Staszica                                                   1C              1C [O] fiz-inf-mat (ang-niem,hisz)                                       181.70
+Ochota    XIV Liceum Ogólnokształcące im. Stanisława Staszica                                                   1D              1D [O] biol-chem-mat (ang-niem,hisz*)                                    185.85
+Ochota    XIV Liceum Ogólnokształcące im. Stanisława Staszica                                                   1E              1E [O] chem-fiz-mat (ang-niem,hisz*)                                     172.80
+Ochota    XIV Liceum Ogólnokształcące im. Stanisława Staszica                                                   1FG             1FG [O] fiz-mat (ang-niem,hisz*)                                         170.60
+Ochota    XLVIII Liceum Ogólnokształcące im. Edwarda Dembowskiego                                               1A_hist_hiszp   1A_hist_hiszp [O] hist-pol (ang-hisz)                                    148.55
+Ochota    XLVIII Liceum Ogólnokształcące im. Edwarda Dembowskiego                                               1A_hist_niem    1A_hist_niem [O] hist-pol (ang-niem)                                     141.20
+Ochota    XLVIII Liceum Ogólnokształcące im. Edwarda Dembowskiego                                               1A_hist_ros     1A_hist_ros [O] hist-pol (ang-ros)                                       145.25
+Ochota    XLVIII Liceum Ogólnokształcące im. Edwarda Dembowskiego                                               1A_wos_hiszp    1A_wos_hiszp [O] pol-wos (ang-hisz)                                      151.90
+Ochota    XLVIII Liceum Ogólnokształcące im. Edwarda Dembowskiego                                               1A_wos_niem     1A_wos_niem [O] pol-wos (ang-niem)                                       144.90
+Ochota    XLVIII Liceum Ogólnokształcące im. Edwarda Dembowskiego                                               1A_wos_ros      1A_wos_ros [O] pol-wos (ang-ros)                                         144.35
+Ochota    XLVIII Liceum Ogólnokształcące im. Edwarda Dembowskiego                                               1B_hiszp        1B_hiszp [O] biol-chem (ang-hisz)                                        165.40
+Ochota    XLVIII Liceum Ogólnokształcące im. Edwarda Dembowskiego                                               1B_niem         1B_niem [O] biol-chem (ang-niem)                                         160.65
+Ochota    XLVIII Liceum Ogólnokształcące im. Edwarda Dembowskiego                                               1B_ros          1B_ros [O] biol-chem (ang-ros)                                           155.10
+Ochota    XLVIII Liceum Ogólnokształcące im. Edwarda Dembowskiego                                               1C_hiszp        1C_hiszp [O] geogr-ang (ang-hisz)                                        165.60
+Ochota    XLVIII Liceum Ogólnokształcące im. Edwarda Dembowskiego                                               1C_niem         1C_niem [O] geogr-ang (ang-niem)                                         148.30
+Ochota    XLVIII Liceum Ogólnokształcące im. Edwarda Dembowskiego                                               1C_ros          1C_ros [O] geogr-ang (ang-ros)                                           145.00
+Ochota    XLVIII Liceum Ogólnokształcące im. Edwarda Dembowskiego                                               1D_fiz_hiszp    1D_fiz_hiszp [O] fiz-mat (ang-hisz)                                      163.20
+Ochota    XLVIII Liceum Ogólnokształcące im. Edwarda Dembowskiego                                               1D_fiz_niem     1D_fiz_niem [O] fiz-mat (ang-niem)                                       156.00
+Ochota    XLVIII Liceum Ogólnokształcące im. Edwarda Dembowskiego                                               1D_fiz_ros      1D_fiz_ros [O] fiz-mat (ang-ros)                                         154.55
+Ochota    XLVIII Liceum Ogólnokształcące im. Edwarda Dembowskiego                                               1D_geo_hiszp    1D_geo_hiszp [O] geogr-mat (ang-hisz)                                    160.60
+Ochota    XLVIII Liceum Ogólnokształcące im. Edwarda Dembowskiego                                               1D_geo_niem     1D_geo_niem [O] geogr-mat (ang-niem)                                     153.40
+Ochota    XLVIII Liceum Ogólnokształcące im. Edwarda Dembowskiego                                               1D_geo_ros      1D_geo_ros [O] geogr-mat (ang-ros)                                       151.75
+Ochota    XLVIII Liceum Ogólnokształcące im. Edwarda Dembowskiego                                               1E_hiszp        1E_hiszp [O] biz-mat (ang-hisz)                                          159.80
+Ochota    XLVIII Liceum Ogólnokształcące im. Edwarda Dembowskiego                                               1E_niem         1E_niem [O] biz-mat (ang-niem)                                           154.70
+Ochota    XXI Liceum Ogólnokształcące im. Hugona Kołłątaja                                                      1A              1A [D] fiz-inf-mat (ang-hisz*,niem*)                                     178.05
+Ochota           XXI Liceum Ogólnokształcące im. Hugona Kołłątaja                                     1B       1B [O] biz-geogr-mat (ang-hisz*,niem*)                                 163.50
+Ochota           XXI Liceum Ogólnokształcące im. Hugona Kołłątaja                                     1C       1C [O] fiz-ang-mat (ang-hisz*,niem*)                                   166.30
+Ochota           XXI Liceum Ogólnokształcące im. Hugona Kołłątaja                                     1D       1D [D] biol-chem (ang-fra*,niem*)                                      179.16
+Ochota           XXI Liceum Ogólnokształcące im. Hugona Kołłątaja                                     1E       1E [O] hist-ang-wos (ang-fra*,niem*)                                   156.40
+Praga-Południe   Branżowa Szkoła I stopnia nr 20 im. prof. Stanisława Bergera                         1a       1a [O] Kucharz (ang)                                                   26.90
+Praga-Południe   Branżowa Szkoła I stopnia nr 20 im. prof. Stanisława Bergera                         1b       1b [O] Pracownik obsługi hotelowej (ang)                               27.85
+Praga-Południe   Branżowa Szkoła I stopnia nr 20 im. prof. Stanisława Bergera                         1c       1c [O] Cukiernik (ang)                                                 25.45
+Praga-Południe   Branżowa Szkoła Spożywczo-Gastronomiczna I stopnia im. Jana Pawła II                 1a       1a [I-o] Kucharz (ang)                                                 53.20
+Praga-Południe   Branżowa Szkoła Spożywczo-Gastronomiczna I stopnia im. Jana Pawła II                 1ai      1ai [I-i] Kucharz (ang)                                                n.d.
+Praga-Południe   Branżowa Szkoła Spożywczo-Gastronomiczna I stopnia im. Jana Pawła II                 1b       1b [I-o] Kucharz (ang)                                                 39.80
+Praga-Południe   Branżowa Szkoła Spożywczo-Gastronomiczna I stopnia im. Jana Pawła II                 1bi      1bi [I-i] Kucharz (ang)                                                n.d.
+Praga-Południe   Branżowa Szkoła Spożywczo-Gastronomiczna I stopnia im. Jana Pawła II                 1c       1c [I-o] Cukiernik (ang)                                               42.15
+Praga-Południe   Branżowa Szkoła Spożywczo-Gastronomiczna I stopnia im. Jana Pawła II                 1ci      1ci [I-i] Cukiernik (ang)                                              n.d.
+Praga-Południe   Branżowa Szkoła Spożywczo-Gastronomiczna I stopnia im. Jana Pawła II                 1d       1d [O] Kelner (ang)                                                    30.45
+Praga-Południe   CXI Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Stefana Kisielewskiego   1Aa      1Aa [I-o] hist-ang-pol (ang-niem)                                      110.75
+Praga-Południe   CXI Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Stefana Kisielewskiego   1Aai     1Aai [I-i] hist-ang-pol (ang-niem)                                     n.d.
+Praga-Południe   CXI Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Stefana Kisielewskiego   1Bm      1Bm [O] hist-ang-pol (ang-niem)                                        96.05
+Praga-Południe   IV Liceum Ogólnokształcące im. Adama Mickiewicza                                     1D       1D [O] ang-mat-wos (ang-hisz)                                          159.35
+Praga-Południe   IV Liceum Ogólnokształcące im. Adama Mickiewicza                                     1I       1I [O] inf-ang-mat (ang-niem)                                          159.65
+Praga-Południe   IV Liceum Ogólnokształcące im. Adama Mickiewicza                                     1L       1L [O] biol-chem-mat (ang-niem)                                        165.05
+Praga-Południe   IV Liceum Ogólnokształcące im. Adama Mickiewicza                                     1S       1S [O] geogr-ang-mat (ang-niem)                                        164.40
+Praga-Południe   LXXII Liceum Ogólnokształcące im. gen. Jakuba Jasińskiego                            1a-h     1a-h [O] hist-ang-pol (ang-hisz*)                                      132.80
+Praga-Południe   LXXII Liceum Ogólnokształcące im. gen. Jakuba Jasińskiego                            1a-n     1a-n [O] hist-ang-pol (ang-niem*)                                      126.95
+Praga-Południe   LXXII Liceum Ogólnokształcące im. gen. Jakuba Jasińskiego                            1b-h     1b-h [O] geogr-ang-mat (ang-hisz*)                                     136.20
+Praga-Południe   LXXII Liceum Ogólnokształcące im. gen. Jakuba Jasińskiego                            1b-n     1b-n [O] geogr-ang-mat (ang-niem*)                                     129.05
+Praga-Południe   LXXII Liceum Ogólnokształcące im. gen. Jakuba Jasińskiego                            1c-h     1c-h [O] biol-ang-mat (ang-hisz*)                                      142.00
+Praga-Południe   LXXII Liceum Ogólnokształcące im. gen. Jakuba Jasińskiego                            1c-n     1c-n [O] biol-ang-mat (ang-niem*)                                      120.80
+Praga-Południe   LXXII Liceum Ogólnokształcące im. gen. Jakuba Jasińskiego                            1d-n     1d-n [O] biol-chem-ang (ang-niem*)                                     148.05
+Praga-Południe   LXXII Liceum Ogólnokształcące im. gen. Jakuba Jasińskiego                            1d-r     1d-r [O] biol-chem-ang (ang-ros*)                                      135.90
+Praga-Południe   LXXXVII Liceum Ogólnokształcące im. gen. Leopolda Okulickiego                        1Lb      1Lb [O] biol-chem-ang (ang-niem)                                       123.00
+Praga-Południe   Technikum Gastronomiczno-Hotelarskie nr 2 im. prof. Stanisława Bergera               1d       1d [O] Technik żywienia i usług gastronomicznych (ang-niem)            72.35
+Praga-Południe   Technikum Gastronomiczno-Hotelarskie nr 2 im. prof. Stanisława Bergera               1h       1h [O] Technik hotelarstwa (ang-niem)                                  61.40
+Praga-Południe   Technikum Łączności im. prof. dr inż. Janusza Groszkowskiego                         1a       1a [O] Technik telekomunikacji (ang-niem)                              97.50
+Praga-Południe   Technikum Łączności im. prof. dr inż. Janusza Groszkowskiego                         1b       1b [O] Technik informatyk (ang-niem)                                   113.10
+Praga-Południe   Technikum Łączności im. prof. dr inż. Janusza Groszkowskiego                         1c       1c [O] Technik programista (ang-niem)                                  135.70
+Praga-Południe   Technikum Łączności im. prof. dr inż. Janusza Groszkowskiego                         1d       1d [O] Technik teleinformatyk (ang-niem)                               101.55
+Praga-Południe   Technikum Łączności im. prof. dr inż. Janusza Groszkowskiego                         1e       1e [O] Technik szerokopasmowej komunikacji elektronicznej (ang-niem)   88.15
+Praga-Południe   Technikum nr 12                                                                      1AE      1AE [O] Technik eksploatacji portów i terminali (ang-niem)             66.65
+Praga-Południe   Technikum nr 12                                                                      1AL      1AL [O] Technik logistyk (ang-niem)                                    77.40
+Praga-Południe   Technikum nr 12                                                                      1AT      1AT [O] Technik organizacji turystyki (ang-hisz)                       85.50
+Praga-Południe   Technikum nr 2 z Oddziałami Integracyjnymi                                           1ae      1ae [I-o] Technik ekonomista (ang-niem)                                63.80
+Praga-Południe   Technikum nr 2 z Oddziałami Integracyjnymi                                           1aei     1aei [I-i] Technik ekonomista (ang-niem)                               n.d.
+Praga-Południe   Technikum nr 2 z Oddziałami Integracyjnymi                                           1br      1br [I-o] Technik reklamy (ang-niem)                                   74.00
+Praga-Południe   Technikum nr 2 z Oddziałami Integracyjnymi                                           1bri     1bri [I-i] Technik reklamy (ang-niem)                                  n.d.
+Praga-Południe   Technikum nr 2 z Oddziałami Integracyjnymi                                           1cR      1cR [I-o] Technik rachunkowości (ang-niem)                             47.15
+Praga-Południe   Technikum nr 2 z Oddziałami Integracyjnymi                                           1cRi     1cRi [I-i] Technik rachunkowości (ang-niem)                            n.d.
+Praga-Południe   Technikum nr 27 im. prof. Józefa Zawadzkiego                                         1TAB     1TAB [O] Technik analityk (ang-niem*)                                  35.55
+Praga-Południe   Technikum nr 27 im. prof. Józefa Zawadzkiego                                         1TFA     1TFA [O] Technik usług fryzjerskich (ang-niem)                         78.85
+Praga-Południe   Technikum nr 27 im. prof. Józefa Zawadzkiego                                         1TK      1TK [O] Technik chłodnictwa i klimatyzacji (ang-niem)                  73.15
+Praga-Południe   Technikum Spożywczo-Gastronomiczne im. Jana Pawła II                                 1AT      1AT [O] Technik żywienia i usług gastronomicznych (ang-hisz)           81.40
+Praga-Południe   Technikum Spożywczo-Gastronomiczne im. Jana Pawła II                                 1ATT     1ATT [O] Technik żywienia i usług gastronomicznych (ang-niem)          87.50
+Praga-Południe   Technikum Spożywczo-Gastronomiczne im. Jana Pawła II                                 1BT      1BT [O] Technik technologii żywności (ang-hisz)                        53.90
+Praga-Południe   Technikum Spożywczo-Gastronomiczne im. Jana Pawła II                                 1BTT     1BTT [O] Technik technologii żywności (ang-niem)                       42.50
+Praga-Południe   XCIX Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Zbigniewa Herberta       1A       1A [O] hist-ang-pol (ang-fra*,niem*)                                   140.45
+Praga-Południe   XCIX Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Zbigniewa Herberta       1B       1B [O] fiz-inf-mat (ang-fra*,niem*)                                    143.30
+Praga-Południe   XCIX Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Zbigniewa Herberta       1D       1D [O] geogr-ang-mat (ang-niem*)                                       139.50
+Praga-Południe   XCIX Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Zbigniewa Herberta       1E       1E [D] geogr-mat (ang-hisz,fra)                                        93.92
+Praga-Południe   XCIX Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Zbigniewa Herberta       1F       1F [O] biol-chem-mat (ang-niem*,fra*)                                  144.80
+Praga-Południe   XCVI Liceum Ogólnokształcące im. Agnieszki Osieckiej                                 1La      1La [O] hist-pol (ang-fra)                                             104.45
+Praga-Południe   XCVII Liceum Ogólnokształcące im. Olimpijczyków Polskich                             1DM(d)   1DM(d) [O] hist-ang-pol (ang-fra)                                      96.15
+Praga-Południe   XCVII Liceum Ogólnokształcące im. Olimpijczyków Polskich                             1DM(m)   1DM(m) [O] hist-ang-pol (ang-hisz)                                     115.35
+Praga-Południe   XIX Liceum Ogólnokształcące im. Powstańców Warszawy                                  1A       1A [O] biol-chem-mat (ang-fra*,hisz*,niem*,ros*,łac)                   169.55
+Praga-Południe   XIX Liceum Ogólnokształcące im. Powstańców Warszawy                                  1B       1B [O] hist-pol-wos (ang-fra*,hisz*,niem*,ros*,łac)                    162.80
+Praga-Południe   XIX Liceum Ogólnokształcące im. Powstańców Warszawy                                  1C       1C [O] geogr-ang-mat (ang-fra*,hisz*,niem*,ros*,łac)                   171.05
+Praga-Południe   XIX Liceum Ogólnokształcące im. Powstańców Warszawy                                  1D       1D [O] fiz-ang-mat (ang-fra*,hisz*,niem*,ros*,łac)                     167.45
+Praga-Południe   XLVII Liceum Ogólnokształcące im. Stanisława Wyspiańskiego                           1A       1A [O] inf-ang-mat (ang-hisz*,niem*)                                   156.25
+Praga-Południe   XLVII Liceum Ogólnokształcące im. Stanisława Wyspiańskiego                           1B       1B [O] geogr-ang-mat (ang-hisz*,niem*)                                 153.60
+Praga-Południe   XLVII Liceum Ogólnokształcące im. Stanisława Wyspiańskiego                           1C       1C [O] biol-chem-ang (ang-hisz*,niem*)                                 156.70
+Praga-Południe   XLVII Liceum Ogólnokształcące im. Stanisława Wyspiańskiego                           1D       1D [O] geogr-ang-wos (ang-hisz*,niem*)                                 151.40
+Praga-Południe   XLVII Liceum Ogólnokształcące im. Stanisława Wyspiańskiego                           1E       1E [O] ang-pol-wos (ang-hisz*,niem*)                                   147.85
+Praga-Południe   XXIII Liceum Ogólnokształcące im. Marii Skłodowskiej-Curie                           1A       1A [O] hist-ang-wos (ang-niem*)                                        126.85
+Praga-Południe   XXIII Liceum Ogólnokształcące im. Marii Skłodowskiej-Curie                           1B/1     1B/1 [O] biz-ang-mat (ang-niem*)                                       125.85
+Praga-Południe   XXIII Liceum Ogólnokształcące im. Marii Skłodowskiej-Curie                           1B/2     1B/2 [O] geogr-ang-mat (ang-niem*)                                     128.70
+Praga-Południe   XXIII Liceum Ogólnokształcące im. Marii Skłodowskiej-Curie                           1C       1C [O] biol-geogr-ang (ang-niem*)                                      120.30
+Praga-Południe   XXIII Liceum Ogólnokształcące im. Marii Skłodowskiej-Curie                           1D       1D [O] biol-chem-ang (ang-niem*)                                       129.55
+Praga-Południe   XXXV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Bolesława Prusa   1a       1a [D] geogr-mat (ang-niem,fra,hisz*)                                  184.73
+Praga-Południe   XXXV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Bolesława Prusa   1b       1b [O] geogr-ang-mat (ang-niem,fra,hisz*)                              169.00
+Praga-Południe   XXXV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Bolesława Prusa   1c       1c [O] fiz-ang-mat (ang-niem,fra,hisz*)                                168.10
+Praga-Południe   XXXV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Bolesława Prusa   1d       1d [O] biol-chem-ang (ang-niem,fra,hisz*)                              170.70
+Praga-Południe   XXXV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Bolesława Prusa   1e       1e [O] chem-ang-mat (ang-niem,fra,hisz*)                               164.30
+Praga-Południe   XXXV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Bolesława Prusa   1m1      1m1 [M] (ang-hisz)                                                     185.01
+Praga-Południe   XXXV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Bolesława Prusa   1m2      1m2 [M] (ang-hisz)                                                     177.18
+Praga-Północ     L Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Ruy Barbosy         1a       1a [O] hist-pol-wos (ang-por,niem*)                                    130.45
+Praga-Północ     L Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Ruy Barbosy         1c       1c [O] biol-chem-mat (ang-por,niem*)                                   140.50
+Praga-Północ     L Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Ruy Barbosy         1d-i     1d-i [I-i] hist-pol-wos (ang-por,niem*)                                n.d.
+Praga-Północ     L Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Ruy Barbosy         1d-o     1d-o [I-o] hist-pol-wos (ang-por,niem*)                                124.45
+Praga-Północ     L Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Ruy Barbosy         1e       1e [O] biol-geogr-ang (ang-por,niem*)                                  138.20
+Praga-Północ     L Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Ruy Barbosy         1i-i     1i-i [I-i] h.szt.-ang-pol (ang-por,niem*)                              n.d.
+Praga-Północ     L Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Ruy Barbosy         1i-o     1i-o [I-o] h.szt.-ang-pol (ang-por,niem*)                              131.55
+Praga-Północ     L Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Ruy Barbosy         1k       1k [O] fiz-inf-mat (ang-por,niem*)                                     135.85
+Praga-Północ     LXXVI Liceum Ogólnokształcące im. Marszałka Józefa Piłsudskiego               1C       1C [O] hist-ang-wos (ang-niem*,ros)                                    110.10
+Praga-Północ     LXXVI Liceum Ogólnokształcące im. Marszałka Józefa Piłsudskiego               1D       1D [I-o] hist-ang-pol (ang-hisz*,niem*)                                111.15
+Praga-Północ     LXXVI Liceum Ogólnokształcące im. Marszałka Józefa Piłsudskiego               1Di      1Di [I-i] hist-ang-pol (ang-hisz*,niem*)                               n.d.
+Praga-Północ     LXXVI Liceum Ogólnokształcące im. Marszałka Józefa Piłsudskiego               1L       1L [O] geogr-ang-pol (ang-hisz*,niem*)                                 128.40
+Praga-Północ     LXXVI Liceum Ogólnokształcące im. Marszałka Józefa Piłsudskiego               1M       1M [O] biol-chem-ang (ang-hisz*,niem*)                                 125.50
+Praga-Północ     LXXVI Liceum Ogólnokształcące im. Marszałka Józefa Piłsudskiego               1P       1P [O] hist-ang-wos (ang-hisz*,niem*)                                  109.40
+Praga-Północ     LXXVI Liceum Ogólnokształcące im. Marszałka Józefa Piłsudskiego               1W       1W [O] geogr-ang-mat (ang-hisz*,niem*)                                 124.70
+Praga-Północ     Technikum Geologiczno-Geodezyjno-Drogowe im. prof. dr Stanisława Kluźniaka    1a       1a [O] Technik programista (ang-niem*)                                 110.25
+Praga-Północ     Technikum Geologiczno-Geodezyjno-Drogowe im. prof. dr Stanisława Kluźniaka    1b       1b [O] Technik budowy dróg (ang-niem*)                                 37.55
+Praga-Północ     Technikum Geologiczno-Geodezyjno-Drogowe im. prof. dr Stanisława Kluźniaka    1d       1d [O] Technik grafiki i poligrafii cyfrowej (ang-niem*)               82.80
+Praga-Północ     Technikum Geologiczno-Geodezyjno-Drogowe im. prof. dr Stanisława Kluźniaka    1g       1g [O] Technik geodeta (ang-niem*)                                     100.20
+Praga-Północ     Technikum Geologiczno-Geodezyjno-Drogowe im. prof. dr Stanisława Kluźniaka    1i       1i [O] Technik informatyk (ang-niem*)                                  92.15
+Praga-Północ     Technikum Geologiczno-Geodezyjno-Drogowe im. prof. dr Stanisława Kluźniaka    1t       1t [O] Technik urządzeń i systemów energetyki odnawialnej (ang-ros*)   42.10
+Praga-Północ     Technikum Mechaniczne nr 5 im. Stefana Starzyńskiego                          1TA      1TA [O] Technik automatyk (ang-niem)                                   45.55
+Praga-Północ     Technikum Mechaniczne nr 5 im. Stefana Starzyńskiego                          1TE      1TE [O] Technik energetyk (ang-niem)                                   26.60
+Praga-Północ     Technikum Mechaniczne nr 5 im. Stefana Starzyńskiego                          1TI      1TI [O] Technik informatyk (ang-niem)                                  77.00
+Praga-Północ     Technikum nr 20                                                               1CD      1CD [O] Technik handlowiec (ang-niem,ros,hisz)                         42.45
+Praga-Północ     Technikum nr 20                                                               1EF      1EF [O] Technik organizacji turystyki (ang-niem,hisz,ros)              72.05
+Praga-Północ     Technikum nr 20                                                               1GH      1GH [O] Technik hotelarstwa (ang-niem,hisz,ros)                        26.45
+Praga-Północ     Technikum nr 6                                                                1at      1at [O] Technik pojazdów samochodowych (ang-niem)                      87.95
+Praga-Północ     Technikum nr 6                                                                1bt      1bt [O] Technik pojazdów samochodowych (ang-ros)                       47.40
+Praga-Północ     Technikum nr 6                                                                1ct      1ct [O] Technik elektryk (ang-niem,ros)                                84.90
+Praga-Północ     VIII Liceum Ogólnokształcące im. Władysława IV                                1A       1A [O] hist-mat-wos (ang-fra*,hisz*,niem*,ros)                         173.70
+Praga-Północ     VIII Liceum Ogólnokształcące im. Władysława IV                                1B       1B [O] biol-chem-mat (ang-fra*,hisz*,niem*,ros)                        178.15
+Praga-Północ     VIII Liceum Ogólnokształcące im. Władysława IV                                1C       1C [O] fiz-inf-mat (ang-fra*,hisz*,niem*,ros)                          171.15
+Praga-Północ     VIII Liceum Ogólnokształcące im. Władysława IV                                1D       1D [O] chem-fiz-mat (ang-fra*,hisz*,niem*,ros)                         169.90
+Praga-Północ     VIII Liceum Ogólnokształcące im. Władysława IV                                1E       1E [O] geogr-ang-mat (ang-fra*,hisz*,niem*,ros)                        172.60
+Praga-Północ     XX Liceum Ogólnokształcące im. Bolesława Chrobrego                            1A       1A [O] ang-pol (ang-fra)                                               108.00
+Praga-Północ     XX Liceum Ogólnokształcące im. Bolesława Chrobrego                            1B       1B [O] geogr-mat (ang-hisz)                                            96.15
+Rembertów        LI Liceum Ogólnokształcące im. Tadeusza Kościuszki                            1b/1     1b/1 [O] biol-chem-ang (ang-hisz)                                      121.25
+Rembertów        LI Liceum Ogólnokształcące im. Tadeusza Kościuszki                            1b/2     1b/2 [O] biol-chem-ang (ang-niem)                                      105.95
+Rembertów        LI Liceum Ogólnokształcące im. Tadeusza Kościuszki                            1c       1c [O] geogr-ang-mat (ang-niem)                                        83.30
+Rembertów        LI Liceum Ogólnokształcące im. Tadeusza Kościuszki                            1l       1l [O] ang-hiszp-pol (ang-hisz)                                        113.40
+Śródmieście      Branżowa Szkoła Gastronomiczna I stopnia                                      1a       1a [O] Kucharz (ang)                                                   53.60
+Śródmieście      Branżowa Szkoła Gastronomiczna I stopnia                                      1c       1c [O] Cukiernik (ang)                                                 55.50
+Śródmieście      CLVII Liceum Ogólnokształcące im. Marii Skłodowskiej-Curie                    1a       1a [O] biol-ang-mat (ang,hisz-niem)                                    167.95
+Śródmieście      CLVII Liceum Ogólnokształcące im. Marii Skłodowskiej-Curie                    1b       1b [O] geogr-hiszp-mat (hisz-ang)                                      164.25
+Śródmieście      CLVII Liceum Ogólnokształcące im. Marii Skłodowskiej-Curie                    1c       1c [O] fiz-inf-mat (ang-hisz,niem)                                     165.25
+Śródmieście      CLVII Liceum Ogólnokształcące im. Marii Skłodowskiej-Curie                    1d       1d [O] fiz-ang-mat (ang-hisz,niem)                                     165.75
+Śródmieście      CLVII Liceum Ogólnokształcące im. Marii Skłodowskiej-Curie                    1e       1e [O] biol-chem-mat (ang-hisz,niem)                                   170.55
+Śródmieście      CLVII Liceum Ogólnokształcące im. Marii Skłodowskiej-Curie                    1f       1f [O] chem-ang-mat (ang-hisz,niem)                                    167.85
+Śródmieście      CLVII Liceum Ogólnokształcące im. Marii Skłodowskiej-Curie                    1g       1g [O] biz-geogr-mat (ang-hisz,niem)                                   166.90
+Śródmieście      II Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefana Batorego    1bch     1bch [O] biol-chem-mat (ang-fra*,hisz,niem*,ros,wlo)                   177.05
+Śródmieście      II Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefana Batorego    1mf      1mf [D] fiz-mat (ang-fra*,hisz,niem*,ros,wlo)                          189.30
+Śródmieście      II Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefana Batorego    1mg      1mg [D] geogr-mat (ang-fra*,hisz,niem*,ros,wlo)                        186.70
+Śródmieście      II Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefana Batorego    1ph      1ph [D] hist-pol (ang-fra*,hisz,niem*,ros,wlo)                         172.97
+Śródmieście      II Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefana Batorego    1preIB   1preIB [M] (ang-fra,niem)                                              195.86
+Śródmieście      IX Liceum Ogólnokształcące im. Klementyny Hoffmanowej                         1a       1a [O] biol-chem-mat (ang-hisz,fra)                                    179.45
+Śródmieście      IX Liceum Ogólnokształcące im. Klementyny Hoffmanowej                         1b       1b [O] biol-chem-mat (ang-fra,niem)                                    177.75
+Śródmieście      IX Liceum Ogólnokształcące im. Klementyny Hoffmanowej                         1c       1c [O] fiz-inf-mat (ang-hisz*,niem*)                                   175.95
+Śródmieście      IX Liceum Ogólnokształcące im. Klementyny Hoffmanowej                         1d       1d [O] chem-fiz-mat (ang-hisz*,niem*)                                  177.00
+Śródmieście      IX Liceum Ogólnokształcące im. Klementyny Hoffmanowej                         1e       1e [O] geogr-hist-mat (ang-hisz*,niem*)                                171.40
+Śródmieście      IX Liceum Ogólnokształcące im. Klementyny Hoffmanowej                         1f       1f [O] geogr-mat-wos (ang-hisz*,niem*)                                 176.00
+Śródmieście      IX Liceum Ogólnokształcące im. Klementyny Hoffmanowej                         1g       1g [O] biol-chem-mat (ang-hisz)                                        177.90
+Śródmieście      IX Liceum Ogólnokształcące im. Klementyny Hoffmanowej                         1h       1h [O] biol-chem-mat (ang-niem)                                        177.10
+Śródmieście      IX Liceum Ogólnokształcące im. Klementyny Hoffmanowej                         1u       1u [O] fiz-ang-mat (ang-hisz,niem*)                                    179.25
+Śródmieście      LVIII Liceum Ogólnokształcące im. Krzysztofa Kamila Baczyńskiego              1BL      1BL [O] biol-ang-mat (ang-niem)                                        119.25
+Śródmieście      LVIII Liceum Ogólnokształcące im. Krzysztofa Kamila Baczyńskiego              1CL      1CL [O] geogr-mat-wos (ang-hisz)                                       132.35
+Śródmieście      LVIII Liceum Ogólnokształcące im. Krzysztofa Kamila Baczyńskiego              1DL      1DL [O] geogr-ang-wos (ang-hisz)                                       139.30
+Śródmieście      LVIII Liceum Ogólnokształcące im. Krzysztofa Kamila Baczyńskiego              1EL      1EL [O] ang-pol-wło (ang-wlo)                                          137.20
+Śródmieście   LXII Liceum Ogólnokształcące Mistrzostwa Sportowego im. Generała Broni Władysława Andersa   1Apł            1Apł [MS] biol-ang-pol (ang-niem)                                      380.00
+Śródmieście   LXII Liceum Ogólnokształcące Mistrzostwa Sportowego im. Generała Broni Władysława Andersa   1Apnż           1Apnż [MS] biol-ang-pol (ang-niem)                                     70.00
+Śródmieście   LXII Liceum Ogólnokształcące Mistrzostwa Sportowego im. Generała Broni Władysława Andersa   1Bkm            1Bkm [MS] biol-chem-ang (ang-niem)                                     509.00
+Śródmieście   LXII Liceum Ogólnokształcące Mistrzostwa Sportowego im. Generała Broni Władysława Andersa   1Bsż            1Bsż [MS] biol-chem-ang (ang-niem)                                     51.00
+Śródmieście   LXII Liceum Ogólnokształcące Mistrzostwa Sportowego im. Generała Broni Władysława Andersa   1Csm            1Csm [MS] biol-chem-ang (ang-niem)                                     63.00
+Śródmieście   LXII Liceum Ogólnokształcące Mistrzostwa Sportowego im. Generała Broni Władysława Andersa   1Csż            1Csż [MS] biol-chem-ang (ang-niem)                                     57.00
+Śródmieście   LXII Liceum Ogólnokształcące Mistrzostwa Sportowego im. Generała Broni Władysława Andersa   1DEpn           1DEpn [S] hist-ang-pol (ang-niem)                                      54.00
+Śródmieście   LXII Liceum Ogólnokształcące Mistrzostwa Sportowego im. Generała Broni Władysława Andersa   1Fla            1Fla [S] biol-ang-pol (ang-niem)                                       361.00
+Śródmieście   LXII Liceum Ogólnokształcące Mistrzostwa Sportowego im. Generała Broni Władysława Andersa   1Fsr            1Fsr [S] biol-ang-pol (ang-niem)                                       301.00
+Śródmieście   LXVII Liceum Ogólnokształcące im. Jana Nowaka-Jeziorańskiego                                1Ah             1Ah [O] biol-chem-mat (ang-hisz*)                                      175.85
+Śródmieście   LXVII Liceum Ogólnokształcące im. Jana Nowaka-Jeziorańskiego                                1An             1An [O] biol-chem-mat (ang-niem*)                                      171.30
+Śródmieście   LXVII Liceum Ogólnokształcące im. Jana Nowaka-Jeziorańskiego                                1Bh             1Bh [O] fiz-mat (ang-hisz*)                                            174.55
+Śródmieście   LXVII Liceum Ogólnokształcące im. Jana Nowaka-Jeziorańskiego                                1Bn             1Bn [O] fiz-mat (ang-niem*)                                            169.05
+Śródmieście   LXVII Liceum Ogólnokształcące im. Jana Nowaka-Jeziorańskiego                                1Ch             1Ch [O] geogr-mat-wos (ang-hisz*)                                      173.80
+Śródmieście   LXVII Liceum Ogólnokształcące im. Jana Nowaka-Jeziorańskiego                                1Cn             1Cn [O] geogr-mat-wos (ang-niem*)                                      165.35
+Śródmieście   LXVII Liceum Ogólnokształcące im. Jana Nowaka-Jeziorańskiego                                1Dh             1Dh [O] hist-mat (ang-hisz*)                                           171.85
+Śródmieście   LXVII Liceum Ogólnokształcące im. Jana Nowaka-Jeziorańskiego                                1Dn             1Dn [O] hist-mat (ang-niem*)                                           163.65
+Śródmieście   LXXV Liceum Ogólnokształcące im. Jana III Sobieskiego                                       1A              1A [O] hist-obcy-pol (hisz*,fra*,niem*-ang)                            148.50
+Śródmieście   LXXV Liceum Ogólnokształcące im. Jana III Sobieskiego                                       1B              1B [O] biol-chem (ang-fra*,hisz*,niem*)                                162.75
+Śródmieście   LXXV Liceum Ogólnokształcące im. Jana III Sobieskiego                                       1C              1C [O] ang-pol (ang-fra*,hisz*,niem*)                                  158.00
+Śródmieście   LXXV Liceum Ogólnokształcące im. Jana III Sobieskiego                                       1D              1D [O] geogr-obcy-wos (hisz*,fra*,niem*-ang)                           148.60
+Śródmieście   LXXV Liceum Ogólnokształcące im. Jana III Sobieskiego                                       1E              1E [O] hist-pol (ang-fra*,hisz*,niem*)                                 132.40
+Śródmieście   LXXXI Liceum Ogólnokształcące im. Aleksandra Fredry                                         1A              1A [O] hist-pol-wos (ang-ros,hisz,wlo,niem*,fra)                       157.30
+Śródmieście   LXXXI Liceum Ogólnokształcące im. Aleksandra Fredry                                         1B              1B [O] geogr-ang-mat (ang-ros,hisz,wlo,fra,niem*)                      167.90
+Śródmieście   LXXXI Liceum Ogólnokształcące im. Aleksandra Fredry                                         1C              1C [O] biol-chem-mat (ang-ros,hisz,wlo,fra,niem*)                      168.35
+Śródmieście   LXXXIII Liceum Ogólnokształcące im. Emiliana Konopczyńskiego                                1A              1A [O] fiz-ang-mat (ang-niem*)                                         158.25
+Śródmieście   LXXXIII Liceum Ogólnokształcące im. Emiliana Konopczyńskiego                                1B              1B [O] geogr-ang-mat (ang-hisz*)                                       158.35
+Śródmieście   LXXXIII Liceum Ogólnokształcące im. Emiliana Konopczyńskiego                                1C              1C [O] ang-hiszp-pol (ang-hisz*)                                       156.30
+Śródmieście   LXXXIII Liceum Ogólnokształcące im. Emiliana Konopczyńskiego                                1D              1D [O] biol-chem-mat (ang-niem*)                                       157.65
+Śródmieście   Technikum Architektoniczno-Budowlane im. Stanisława Noakowskiego                            1a              1a [O] Technik inżynierii sanitarnej (ang-niem*)                       124.70
+Śródmieście   Technikum Architektoniczno-Budowlane im. Stanisława Noakowskiego                            1b              1b [O] Technik budownictwa (ang-niem*)                                 148.70
+Śródmieście   Technikum Architektoniczno-Budowlane im. Stanisława Noakowskiego                            1c              1c [O] Technik budownictwa (ang-niem*)                                 146.55
+Śródmieście   Technikum Architektoniczno-Budowlane im. Stanisława Noakowskiego                            1g              1g [O] Technik budownictwa (ang-niem*)                                 142.65
+Śródmieście   Technikum Budownictwa i Architektury nr 1 im. prof. Zdzisława Mączeńskiego                  1AT             1AT [O] Technik budownictwa (ang-niem)                                 80.00
+Śródmieście   Technikum Budownictwa i Architektury nr 1 im. prof. Zdzisława Mączeńskiego                  1BT             1BT [O] Technik budownictwa (ang-niem)                                 94.85
+Śródmieście   Technikum Budownictwa i Architektury nr 1 im. prof. Zdzisława Mączeńskiego                  1GT             1GT [O] Technik budownictwa (ang-wlo)                                  115.50
+Śródmieście   Technikum Ekonomiczne nr 1 im. Mikołaja Kopernika                                           1EA             1EA [O] Technik ekonomista (ang-niem)                                  123.90
+Śródmieście   Technikum Ekonomiczne nr 1 im. Mikołaja Kopernika                                           1EB             1EB [O] Technik ekonomista (ang*-hisz)                                 125.70
+Śródmieście   Technikum Ekonomiczne nr 1 im. Mikołaja Kopernika                                           1FA             1FA [O] Technik rachunkowości (ang-ros)                                86.55
+Śródmieście   Technikum Ekonomiczne nr 1 im. Mikołaja Kopernika                                           1LA             1LA [O] Technik logistyk (ang-niem)                                    121.50
+Śródmieście   Technikum Ekonomiczne nr 1 im. Mikołaja Kopernika                                           1LB             1LB [O] Technik logistyk (ang-ros)                                     82.75
+Śródmieście   Technikum Gastronomiczno-Hotelarskie nr 1                                                   1ab             1ab [O] Technik żywienia i usług gastronomicznych (ang-hisz*)          103.60
+Śródmieście   Technikum Gastronomiczno-Hotelarskie nr 1                                                   1cd             1cd [O] Technik żywienia i usług gastronomicznych (ang-niem*)          81.05
+Śródmieście   Technikum Gastronomiczno-Hotelarskie nr 1                                                   1h              1h [O] Technik hotelarstwa (ang-niem*)                                 94.65
+Śródmieście   Technikum Kinematograficzno-Komputerowe im. Krzysztofa Kieślowskiego                        1Anagł          1Anagł [O] Technik realizacji nagłośnień (ang-hisz)                    151.25
+Śródmieście   Technikum Kinematograficzno-Komputerowe im. Krzysztofa Kieślowskiego                        1Anagr          1Anagr [O] Technik realizacji nagrań (ang-hisz)                        157.30
+Śródmieście   Technikum Kinematograficzno-Komputerowe im. Krzysztofa Kieślowskiego                        1Binf           1Binf [O] Technik informatyk (ang-niem)                                158.30
+Śródmieście   Technikum Kinematograficzno-Komputerowe im. Krzysztofa Kieślowskiego                        1Bprog          1Bprog [O] Technik programista (ang-niem)                              163.10
+Śródmieście   Technikum Poligraficzne                                                                     1tc1_ang        1tc1_ang [O] Technik grafiki i poligrafii cyfrowej (ang-niem)          90.90
+Śródmieście   Technikum Poligraficzne                                                                     1tc1i_ang       1tc1i_ang [I-o] Technik grafiki i poligrafii cyfrowej (ang-niem)       75.05
+Śródmieście   Technikum Poligraficzne                                                                     1tc1i_ang_orz   1tc1i_ang_orz [I-i] Technik grafiki i poligrafii cyfrowej (ang-niem)   n.d.
+Śródmieście   Technikum Poligraficzne                                                                     1tc2_geo        1tc2_geo [O] Technik grafiki i poligrafii cyfrowej (ang-wlo)           72.35
+Śródmieście   Technikum Poligraficzne                                                                     1tc2i_geo       1tc2i_geo [I-o] Technik grafiki i poligrafii cyfrowej (ang-wlo)        53.30
+Śródmieście   Technikum Poligraficzne                                                                     1tc2i_geo_orz   1tc2i_geo_orz [I-i] Technik grafiki i poligrafii cyfrowej (ang-wlo)    n.d.
+Śródmieście   Technikum Poligraficzne                                                                     1tr_ang         1tr_ang [O] Technik reklamy (ang-niem)                                 92.95
+Śródmieście   V Liceum Ogólnokształcące im. Księcia Józefa Poniatowskiego                                 1C              1C [O] chem-fiz-mat (ang-fra,niem)                                     171.55
+Śródmieście   V Liceum Ogólnokształcące im. Księcia Józefa Poniatowskiego                                 1D              1D [O] biol-chem-mat (ang-fra,niem)                                    177.05
+Śródmieście   V Liceum Ogólnokształcące im. Księcia Józefa Poniatowskiego                                 1E              1E [O] geogr-mat (ang-fra,niem)                                        175.05
+Śródmieście   XI Liceum Ogólnokształcące im. Mikołaja Reja                                                1A              1A [O] fiz-ang-mat (ang-hisz,niem)                                     170.70
+Śródmieście   XI Liceum Ogólnokształcące im. Mikołaja Reja                                                1B              1B [O] hist-ang-pol (ang-fra,łac)                                      163.80
+Śródmieście   XI Liceum Ogólnokształcące im. Mikołaja Reja                                                1C              1C [O] hist-mat-wos (ang-niem,fra)                                     162.70
+Śródmieście   XI Liceum Ogólnokształcące im. Mikołaja Reja                                                1D              1D [O] biol-chem-mat (ang-niem,hisz)                                   172.35
+Śródmieście   XI Liceum Ogólnokształcące im. Mikołaja Reja                                                1E              1E [O] geogr-ang-mat (ang-niem)                                        169.45
+Śródmieście   XV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Narcyzy Żmichowskiej              0W              0W [DW] franc (fra-ang)                                                168.98
+Śródmieście   XV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Narcyzy Żmichowskiej              1A              1A [O] hist-pol (ang-fra)                                              159.00
+Śródmieście   XV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Narcyzy Żmichowskiej              1B              1B [O] geogr-mat (ang-fra)                                             160.60
+Śródmieście   XV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Narcyzy Żmichowskiej              1C              1C [O] biz-ang-wos (ang-fra)                                           158.40
+Śródmieście   XV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Narcyzy Żmichowskiej              1L              1L [D] hist-pol (fra-ang)                                              157.40
+Śródmieście   XV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Narcyzy Żmichowskiej              1S              1S [D] biol-chem (fra-ang)                                             155.30
+Śródmieście   XVII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Andrzeja Frycza Modrzewskiego   0W              0W [DW] (niem-ang)                                                     172.65
+Śródmieście   XVII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Andrzeja Frycza Modrzewskiego   1a              1a [O] geogr-ang-mat (ang-niem*)                                       168.40
+Śródmieście   XVII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Andrzeja Frycza Modrzewskiego   1b              1b [O] biol-chem-mat (ang-niem*)                                       170.80
+Śródmieście   XVII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Andrzeja Frycza Modrzewskiego   1c              1c [O] hist-ang-pol (ang-niem*)                                        157.15
+Śródmieście   XVII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Andrzeja Frycza Modrzewskiego   1d              1d [D] geogr-ang-mat (niem-ang)                                        185.70
+Śródmieście   XVIII Liceum Ogólnokształcące im. Jana Zamoyskiego                                          1A              1A [O] fiz-inf-mat (ang-niem,fra,hisz*)                                172.10
+Śródmieście   XVIII Liceum Ogólnokształcące im. Jana Zamoyskiego                                    1B                  1B [O] fiz-ang-mat (ang-niem,fra,hisz*)                          175.80
+Śródmieście   XVIII Liceum Ogólnokształcące im. Jana Zamoyskiego                                    1C,D                1C,D [O] biol-chem-mat (ang-niem,fra,hisz)                       173.85
+Śródmieście   XVIII Liceum Ogólnokształcące im. Jana Zamoyskiego                                    1E                  1E [O] hist-pol-wos (ang-niem*,fra)                              165.95
+Śródmieście   XVIII Liceum Ogólnokształcące im. Jana Zamoyskiego                                    1G                  1G [O] geogr-ang-mat (ang-niem*,fra)                             172.75
+Śródmieście   XXVII Liceum Ogólnokształcące im. Tadeusza Czackiego                                  1H                  1H [O] hist-pol (ang-fra,hisz*,niem*)                            180.00
+Śródmieście   XXVII Liceum Ogólnokształcące im. Tadeusza Czackiego                                  1M                  1M [O] fiz-inf-mat (ang-fra,hisz*,niem*)                         179.50
+Śródmieście   XXVII Liceum Ogólnokształcące im. Tadeusza Czackiego                                  1P                  1P [O] biol-chem-mat (ang-fra,hisz*,niem*)                       181.00
+Śródmieście   XXVII Liceum Ogólnokształcące im. Tadeusza Czackiego                                  1S                  1S [O] geogr-mat (ang-fra,hisz*,niem*)                           177.10
+Śródmieście   XXXII Liceum Ogólnokształcące im. Stefana Grota-Roweckiego                            1A                  1A [O] hist-ang (ang-wlo)                                        120.65
+Śródmieście   XXXVII Liceum Ogólnokształcące im. Jarosława Dąbrowskiego                             1A                  1A [O] hist-pol-wos (ang-niem,wlo)                               160.95
+Śródmieście   XXXVII Liceum Ogólnokształcące im. Jarosława Dąbrowskiego                             1B                  1B [O] ang-pol-wło (ang-wlo)                                     167.05
+Śródmieście   XXXVII Liceum Ogólnokształcące im. Jarosława Dąbrowskiego                             1C                  1C [O] fiz-inf-mat (ang-niem,wlo)                                166.85
+Śródmieście   XXXVII Liceum Ogólnokształcące im. Jarosława Dąbrowskiego                             1D                  1D [O] biol-chem-mat (ang-niem,wlo)                              170.95
+Śródmieście   XXXVII Liceum Ogólnokształcące im. Jarosława Dąbrowskiego                             1E                  1E [O] geogr-mat (ang-niem,wlo)                                  170.60
+Targówek      Branżowa Szkoła I stopnia nr 41                                                       1A+1B               1A+1B [O] wielozawodowa (ang)                                    15.15
+Targówek      Branżowa Szkoła I stopnia nr 41                                                       1F                  1F [O] Fryzjer (ang)                                             33.90
+Targówek      CII Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Księdza Józefa Woźniaka   1Ai                 1Ai [I-i] biol-ang-pol (ang-niem)                                n.d.
+Targówek      CII Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Księdza Józefa Woźniaka   1Ao                 1Ao [I-o] biol-ang-pol (ang-niem)                                113.30
+Targówek      CII Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Księdza Józefa Woźniaka   1Bi                 1Bi [I-i] hist-ang-pol (ang-hisz)                                n.d.
+Targówek      CII Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Księdza Józefa Woźniaka   1Bo                 1Bo [I-o] hist-ang-pol (ang-hisz)                                106.75
+Targówek      CII Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Księdza Józefa Woźniaka   1Ci                 1Ci [I-i] geogr-ang-pol (ang-niem)                               n.d.
+Targówek      CII Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Księdza Józefa Woźniaka   1Co                 1Co [I-o] geogr-ang-pol (ang-niem)                               109.35
+Targówek      CLXII Liceum Ogólnokształcące im. Szarych Szeregów                                    1AN-integracja      1AN-integracja [I-i] hist-ang-pol (ang-niem)                     n.d.
+Targówek      CLXII Liceum Ogólnokształcące im. Szarych Szeregów                                    1A-ogólnodostępny   1A-ogólnodostępny [I-o] hist-ang-pol (ang-niem,ros)              108.70
+Targówek      CLXII Liceum Ogólnokształcące im. Szarych Szeregów                                    1BH                 1BH [O] biol-chem-ang (ang-hisz)                                 113.60
+Targówek      CLXII Liceum Ogólnokształcące im. Szarych Szeregów                                    1BN                 1BN [O] biol-chem-ang (ang-niem)                                 103.25
+Targówek      CLXII Liceum Ogólnokształcące im. Szarych Szeregów                                    1CH                 1CH [O] geogr-ang-hiszp (ang-hisz,niem)                          119.35
+Targówek      CLXII Liceum Ogólnokształcące im. Szarych Szeregów                                    1CN                 1CN [O] geogr-ang-niem (ang-hisz,niem)                           98.80
+Targówek      CLXII Liceum Ogólnokształcące im. Szarych Szeregów                                    1SH                 1SH [S] biol-geogr-ang (ang-hisz)                                39.00
+Targówek      CLXII Liceum Ogólnokształcące im. Szarych Szeregów                                    1SN                 1SN [S] biol-geogr-ang (ang-niem)                                38.00
+Targówek      CXXXVII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Roberta Schumana       1A                  1A [D] geogr-mat (ang-fra,niem)                                  174.83
+Targówek      CXXXVII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Roberta Schumana       1B                  1B [D] biol-chem (ang-hisz,niem)                                 174.25
+Targówek      CXXXVII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Roberta Schumana       1C                  1C [D] hist-pol (ang-fra,hisz)                                   151.87
+Targówek      CXXXVII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Roberta Schumana       1D                  1D [O] fiz-ang-mat (ang,niem-hisz)                               157.70
+Targówek      CXXXVII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Roberta Schumana       1E/1                1E/1 [O] geogr-niem-pol (niem-ang)                               125.00
+Targówek      CXXXVII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Roberta Schumana       1E/2                1E/2 [O] geogr-ang-pol (ang-niem)                                145.55
+Targówek      Technikum nr 11 im. Piotra Wysockiego                                                 1AC                 1AC [O] Technik organizacji turystyki (ang-niem,ros)             85.75
+Targówek      Technikum nr 11 im. Piotra Wysockiego                                                 1B(i)               1B(i) [I-i] Technik hotelarstwa (ang-niem,ros)                   n.d.
+Targówek      Technikum nr 11 im. Piotra Wysockiego                                                 1B(o)               1B(o) [I-o] Technik hotelarstwa (ang-ros,niem)                   89.65
+Targówek      Technikum nr 11 im. Piotra Wysockiego                                                 1CA                 1CA [O] Technik eksploatacji portów i terminali (ang-niem,ros)   100.25
+Targówek      Technikum nr 11 im. Piotra Wysockiego                                                 1E                  1E [O] Technik grafiki i poligrafii cyfrowej (ang-niem,fra)      94.20
+Targówek      Technikum nr 11 im. Piotra Wysockiego                                                 1F                  1F [O] Technik lotniskowych służb operacyjnych (ang-niem,ros)    115.85
+Targówek      Technikum nr 11 im. Piotra Wysockiego                                                 1G(i)               1G(i) [I-i] Technik ekonomista (ang-niem,fra)                    n.d.
+Targówek      Technikum nr 11 im. Piotra Wysockiego                                                 1G(o)               1G(o) [I-o] Technik ekonomista (ang-niem,fra)                    108.40
+Targówek      Technikum nr 11 im. Piotra Wysockiego                                                 1L                  1L [O] Technik logistyk (ang-niem,fra)                           92.45
+Targówek      Technikum nr 30                                                                       1TD                 1TD [O] Technik technologii drewna (ang-niem)                    59.75
+Targówek      Technikum nr 30                                                                       1TF                 1TF [O] Technik usług fryzjerskich (ang-hisz)                    60.70
+Targówek      Technikum nr 30                                                                       1TW                 1TW [O] Technik aranżacji wnętrz (ang-hisz)                      78.00
+Targówek      XIII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. płk. Leopolda Lisa-Kuli   1A                  1A [O] hist-ang-pol (ang-hisz,niem)                              152.10
+Targówek      XIII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. płk. Leopolda Lisa-Kuli   1B                  1B [O] fiz-ang-mat (ang-niem,hisz)                               158.85
+Targówek      XIII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. płk. Leopolda Lisa-Kuli   1C                  1C [O] biol-chem-ang (ang-fra,hisz)                              163.75
+Targówek      XIII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. płk. Leopolda Lisa-Kuli   1D                  1D [O] inf-ang-mat (ang-fra,niem)                                162.15
+Targówek      XIII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. płk. Leopolda Lisa-Kuli   1E                  1E [O] geogr-ang-mat (ang-fra,hisz)                              160.95
+Targówek      XIII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. płk. Leopolda Lisa-Kuli   1F                  1F [O] geogr-ang-wos (ang-hisz,niem)                             157.95
+Targówek      XIII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. płk. Leopolda Lisa-Kuli   1G                  1G [O] hist-ang-pol (ang-hisz,fra)                               143.25
+Targówek      XIII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. płk. Leopolda Lisa-Kuli   1H                  1H [O] hist-ang-wos (ang-fra,niem)                               141.85
+Targówek      XLVI Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefana Czarnieckiego     0AH                 0AH [DW] geogr-ang (ang-hisz)                                    160.85
+Targówek      XLVI Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefana Czarnieckiego     0AN                 0AN [DW] geogr-ang (ang-niem)                                    81.40
+Targówek      XLVI Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefana Czarnieckiego     1AH                 1AH [D] geogr-ang (ang-hisz)                                     195.40
+Targówek      XLVI Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefana Czarnieckiego     1AN                 1AN [D] geogr-ang (ang-niem)                                     200.90
+Targówek      XLVI Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefana Czarnieckiego     1B                  1B [O] biol-obcy-pol (ang-fra*,hisz*,niem*,ros*,wlo*)            129.75
+Targówek      XLVI Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefana Czarnieckiego     1BM                 1BM [O] biol-chem-obcy (ang-fra*,hisz*,niem*,ros*,wlo*)          146.50
+Targówek      XLVI Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefana Czarnieckiego     1C                  1C [O] hist-obcy-pol (ang-fra*,hisz*,niem*,ros*,wlo*)            127.30
+Targówek      XLVI Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefana Czarnieckiego     1D                  1D [O] geogr-ang-mat (ang-fra*,hisz*,niem*,ros*,wlo*)            141.45
+Targówek      XLVI Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefana Czarnieckiego     1F                  1F [O] hist-obcy-pol (ang-fra*,hisz*,niem*,ros*,wlo*)            117.25
+Ursus         Branżowa Szkoła I stopnia nr 37 im. Jana Karskiego                                    1A+1B               1A+1B [O] wielozawodowa (ang)                                    19.35
+Ursus         LVI Liceum Ogólnokształcące im. Rotmistrza Witolda Pileckiego                         1AF                 1AF [O] ang-mat (ang-hisz,niem)                                  133.85
+Ursus         LVI Liceum Ogólnokształcące im. Rotmistrza Witolda Pileckiego                         1AI                 1AI [O] ang-mat (ang-hisz,niem)                                  125.80
+Ursus         LVI Liceum Ogólnokształcące im. Rotmistrza Witolda Pileckiego                         1B                  1B [O] biol-chem-ang (ang-hisz,niem)                             139.10
+Ursus         LVI Liceum Ogólnokształcące im. Rotmistrza Witolda Pileckiego                         1C                  1C [O] geogr-ang-mat (ang-hisz,niem)                             138.15
+Ursus         LVI Liceum Ogólnokształcące im. Rotmistrza Witolda Pileckiego                         1DH                 1DH [O] ang-pol (ang-hisz,niem)                                  128.30
+Ursus         LVI Liceum Ogólnokształcące im. Rotmistrza Witolda Pileckiego                         1DW                 1DW [O] ang-pol (ang-hisz,niem)                                  140.25
+Ursus         LVI Liceum Ogólnokształcące im. Rotmistrza Witolda Pileckiego                         1E                  1E [O] biz-ang-hiszp (ang-hisz)                                  136.35
+Ursus         Technikum nr 8 im. Jana Karskiego                                                     1AI+1BI             1AI+1BI [O] Technik informatyk (ang,niem-niem)                   87.80
+Ursus         Technikum nr 8 im. Jana Karskiego                                                     1AL+1BL             1AL+1BL [O] Technik logistyk (ang,ros-ros)                       61.05
+Ursus     Technikum nr 8 im. Jana Karskiego                                                              1AO+1BO       1AO+1BO [O] Technik organizacji turystyki (ang-niem*)   67.75
+Ursynów   CLVIII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Księżnej Izabeli Czartoryskiej   0_H           0_H [DW] geogr-ang-wos (hisz-ang)                       213.40
+Ursynów   CLVIII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Księżnej Izabeli Czartoryskiej   1A_f          1A_f [D] hist-h.szt.-pol (ang-fra)                      143.48
+Ursynów   CLVIII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Księżnej Izabeli Czartoryskiej   1A_h          1A_h [D] hist-h.szt.-pol (ang-hisz)                     161.92
+Ursynów   CLVIII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Księżnej Izabeli Czartoryskiej   1B            1B [D] geogr-ang-wos (hisz-ang)                         167.36
+Ursynów   CLVIII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Księżnej Izabeli Czartoryskiej   1D_h          1D_h [O] geogr-ang-mat (ang-hisz)                       166.60
+Ursynów   CLVIII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Księżnej Izabeli Czartoryskiej   1D_n          1D_n [O] geogr-ang-mat (ang-niem)                       163.35
+Ursynów   CLVIII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Księżnej Izabeli Czartoryskiej   1E_h          1E_h [O] biol-chem-ang (ang-hisz)                       165.40
+Ursynów   CLVIII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Księżnej Izabeli Czartoryskiej   1E_n          1E_n [O] biol-chem-ang (ang-niem)                       161.85
+Ursynów   CLXVI Liceum Ogólnokształcące z Oddziałami Sportowymi                                          1LA/1         1LA/1 [O] geogr-ang-pol (ang-niem)                      121.05
+Ursynów   CLXVI Liceum Ogólnokształcące z Oddziałami Sportowymi                                          1LA/2         1LA/2 [O] geogr-ang-pol (ang-hisz)                      129.80
+Ursynów   CLXVI Liceum Ogólnokształcące z Oddziałami Sportowymi                                          1LBs/p.noż.   1LBs/p.noż. [S] biol-ang (ang-hisz,niem)                61.00
+Ursynów   CLXVI Liceum Ogólnokształcące z Oddziałami Sportowymi                                          1LBs/pływ.    1LBs/pływ. [S] biol-ang (ang-hisz,niem)                 510.00
+Ursynów   LXIII Liceum Ogólnokształcące im. Lajosa Kossutha                                              1A            1A [O] ang-hiszp-pol (hisz-ang)                         128.85
+Ursynów   LXIII Liceum Ogólnokształcące im. Lajosa Kossutha                                              1Bh           1Bh [O] biol-chem-ang (ang-hisz*)                       155.50
+Ursynów   LXIII Liceum Ogólnokształcące im. Lajosa Kossutha                                              1Bn           1Bn [O] biol-chem-ang (ang-niem*)                       149.10
+Ursynów   LXIII Liceum Ogólnokształcące im. Lajosa Kossutha                                              1Ch           1Ch [O] hist-ang-wos (ang-hisz*)                        147.50
+Ursynów   LXIII Liceum Ogólnokształcące im. Lajosa Kossutha                                              1Cn           1Cn [O] hist-ang-wos (ang-niem*)                        143.65
+Ursynów   LXIII Liceum Ogólnokształcące im. Lajosa Kossutha                                              1Df           1Df [O] fiz-ang-mat (ang-hisz*,niem*)                   150.45
+Ursynów   LXIII Liceum Ogólnokształcące im. Lajosa Kossutha                                              1Di           1Di [O] inf-ang-mat (ang-hisz*,niem*)                   148.55
+Ursynów   LXIII Liceum Ogólnokształcące im. Lajosa Kossutha                                              1Ei           1Ei [I-i] geogr-ang-mat (ang-hisz*,niem*)               n.d.
+Ursynów   LXIII Liceum Ogólnokształcące im. Lajosa Kossutha                                              1Eo           1Eo [I-o] geogr-ang-mat (ang-hisz*,niem*)               153.45
+Ursynów   LXX Liceum Ogólnokształcące im. Aleksandra Kamińskiego                                         1A1           1A1 [O] hist-pol-wos (ang-wlo)                          161.85
+Ursynów   LXX Liceum Ogólnokształcące im. Aleksandra Kamińskiego                                         1A2           1A2 [O] hist-pol-wos (ang-fra)                          159.00
+Ursynów   LXX Liceum Ogólnokształcące im. Aleksandra Kamińskiego                                         1B1           1B1 [O] fiz-ang-mat (ang-niem)                          169.75
+Ursynów   LXX Liceum Ogólnokształcące im. Aleksandra Kamińskiego                                         1B2           1B2 [O] fiz-inf-mat (ang-niem)                          167.65
+Ursynów   LXX Liceum Ogólnokształcące im. Aleksandra Kamińskiego                                         1C1           1C1 [O] geogr-ang-mat (ang-niem)                        169.15
+Ursynów   LXX Liceum Ogólnokształcące im. Aleksandra Kamińskiego                                         1C2           1C2 [O] geogr-ang-mat (ang-fra)                         169.25
+Ursynów   LXX Liceum Ogólnokształcące im. Aleksandra Kamińskiego                                         1D1           1D1 [O] geogr-niem-mat (ang-niem)                       164.20
+Ursynów   LXX Liceum Ogólnokształcące im. Aleksandra Kamińskiego                                         1D2           1D2 [O] geogr-hiszp-mat (ang-hisz)                      167.95
+Ursynów   LXX Liceum Ogólnokształcące im. Aleksandra Kamińskiego                                         1E1           1E1 [O] biol-chem-mat (ang-niem)                        167.95
+Ursynów   LXX Liceum Ogólnokształcące im. Aleksandra Kamińskiego                                         1E2           1E2 [O] biol-chem-mat (ang-hisz)                        173.05
+Wawer     XXV Liceum Ogólnokształcące im. Józefa Wybickiego                                              1a            1a [O] geogr-ang-mat (ang-hisz,niem,ros)                161.85
+Wawer     XXV Liceum Ogólnokształcące im. Józefa Wybickiego                                              1b            1b [O] biol-chem-ang (ang-hisz,niem,ros)                157.20
+Wawer     XXV Liceum Ogólnokształcące im. Józefa Wybickiego                                              1c_his        1c_his [O] hist-ang-pol (ang-hisz,niem,ros)             153.60
+Wawer     XXV Liceum Ogólnokształcące im. Józefa Wybickiego                                              1c_hisz       1c_hisz [O] ang-hiszp-pol (ang-hisz)                    153.10
+Wawer     XXV Liceum Ogólnokształcące im. Józefa Wybickiego                                              1d            1d [O] geogr-ang-wos (ang-hisz,niem,ros)                147.35
+Wawer     XXVI Liceum Ogólnokształcące im. Juliana Tuwima                                                1A            1A [O] geogr-ang-wos (ang-hisz,niem)                    124.95
+Wawer     XXVI Liceum Ogólnokształcące im. Juliana Tuwima                                                1B(i)         1B(i) [I-i] hist-ang-pol (ang-hisz,niem)                n.d.
+Wawer     XXVI Liceum Ogólnokształcące im. Juliana Tuwima                                                1B(o)         1B(o) [I-o] hist-ang-pol (ang-hisz,niem)                121.15
+Wawer     XXVI Liceum Ogólnokształcące im. Juliana Tuwima                                                1C(i)         1C(i) [I-i] ang-pol-wos (ang-hisz,niem)                 n.d.
+Wawer     XXVI Liceum Ogólnokształcące im. Juliana Tuwima                                                1C(o)         1C(o) [I-o] ang-pol-wos (ang-hisz,niem)                 121.95
+Wawer     XXVI Liceum Ogólnokształcące im. Juliana Tuwima                                                1D            1D [O] biol-ang (ang-hisz,niem)                         118.20
+Wesoła    CLXIII Liceum Ogólnokształcące im. Czesława Niemena w Warszawie                                1A/mat        1A/mat [O] hist-ang-mat (ang-hisz*,niem*)               154.00
+Wesoła    CLXIII Liceum Ogólnokształcące im. Czesława Niemena w Warszawie                                1A/wos        1A/wos [O] hist-ang-wos (ang-hisz*,niem*)               156.20
+Wesoła    CLXIII Liceum Ogólnokształcące im. Czesława Niemena w Warszawie                                1B/ang        1B/ang [O] geogr-ang-mat (ang-hisz*,niem*)              161.00
+Wesoła    CLXIII Liceum Ogólnokształcące im. Czesława Niemena w Warszawie                                1B/wos        1B/wos [O] geogr-mat-wos (ang-hisz*,niem*)              159.20
+Wesoła    CLXIII Liceum Ogólnokształcące im. Czesława Niemena w Warszawie                                1C/ang        1C/ang [O] biol-chem-ang (ang-hisz*,niem*)              165.30
+Wesoła    CLXIII Liceum Ogólnokształcące im. Czesława Niemena w Warszawie                                1C/mat        1C/mat [O] biol-chem-mat (ang-hisz*,niem*)              166.35
+Wesoła    CLXIII Liceum Ogólnokształcące im. Czesława Niemena w Warszawie                                1D/ang        1D/ang [O] fiz-ang-mat (ang-hisz*,niem*)                164.85
+Wesoła    CLXIII Liceum Ogólnokształcące im. Czesława Niemena w Warszawie                                1D/inf        1D/inf [O] fiz-inf-mat (ang-hisz*,niem*)                159.90
+Wilanów   XXXVIII Liceum Ogólnokształcące im. Stanisława Kostki Potockiego                               1AN           1AN [O] mat-wos (ang-niem)                              130.15
+Wilanów   XXXVIII Liceum Ogólnokształcące im. Stanisława Kostki Potockiego                               1AW           1AW [O] mat-wos (ang-wlo)                               129.25
+Wilanów   XXXVIII Liceum Ogólnokształcące im. Stanisława Kostki Potockiego                               1BF           1BF [O] biol-mat (ang-fra)                              132.25
+Wilanów   XXXVIII Liceum Ogólnokształcące im. Stanisława Kostki Potockiego                               1BH           1BH [O] biol-mat (ang-hisz)                             147.95
+Wilanów   XXXVIII Liceum Ogólnokształcące im. Stanisława Kostki Potockiego                               1CH           1CH [O] geogr-mat (ang-hisz)                            152.90
+Wilanów   XXXVIII Liceum Ogólnokształcące im. Stanisława Kostki Potockiego                               1CW           1CW [O] geogr-mat (ang-wlo)                             133.60
+Wilanów   XXXVIII Liceum Ogólnokształcące im. Stanisława Kostki Potockiego                               1DF           1DF [O] geogr-mat (ang-fra)                             128.95
+Wilanów   XXXVIII Liceum Ogólnokształcące im. Stanisława Kostki Potockiego                               1DN           1DN [O] geogr-mat (ang-niem)                            135.05
+Włochy    CLIX Liceum Ogólnokształcące im. Króla Jana III Sobieskiego                                    1Ah           1Ah [O] fiz-inf-mat (ang-hisz)                          165.85
+Włochy    CLIX Liceum Ogólnokształcące im. Króla Jana III Sobieskiego                                    1An           1An [O] fiz-inf-mat (ang-niem)                          158.50
+Włochy    CLIX Liceum Ogólnokształcące im. Króla Jana III Sobieskiego                                    1Bh           1Bh [O] geogr-ang-mat (ang-hisz)                        164.05
+Włochy    CLIX Liceum Ogólnokształcące im. Króla Jana III Sobieskiego                                    1Bn           1Bn [O] geogr-ang-mat (ang-niem)                        159.85
+Włochy    CLIX Liceum Ogólnokształcące im. Króla Jana III Sobieskiego                                    1Ch           1Ch [D] biol-chem-ang (ang-hisz)                        170.42
+Włochy    CLIX Liceum Ogólnokształcące im. Króla Jana III Sobieskiego                                    1Cn           1Cn [D] biol-chem-ang (ang-niem)                        160.59
+Włochy    CLIX Liceum Ogólnokształcące im. Króla Jana III Sobieskiego                                    1Dn           1Dn [O] hist-pol-wos (ang-niem)                         155.30
+Włochy    CLIX Liceum Ogólnokształcące im. Króla Jana III Sobieskiego                                    1Dr           1Dr [O] hist-pol-wos (ang-ros)                          147.85
+Włochy    CLIX Liceum Ogólnokształcące im. Króla Jana III Sobieskiego                                    1Eh           1Eh [O] biz-geogr-ang (ang-hisz)                        162.55
+Włochy    CLIX Liceum Ogólnokształcące im. Króla Jana III Sobieskiego                                    1En           1En [O] biz-geogr-ang (ang-niem)                        160.05
+Włochy    LXXXIV Liceum Ogólnokształcące im. Bohaterów Narwiku                                           1ah           1ah [O] geogr-ang-hiszp (ang-hisz)                      156.60
+Włochy    LXXXIV Liceum Ogólnokształcące im. Bohaterów Narwiku                                           1an           1an [O] geogr-ang-niem (ang-niem)                       147.45
+Włochy    Technikum nr 9 Lotnicze im. Bohaterów Narwiku                                                  1Ta           1Ta [O] Technik awionik (ang,hisz-niem)                 157.95
+Włochy    Technikum nr 9 Lotnicze im. Bohaterów Narwiku                                                  1TC           1TC [O] Technik mechanik lotniczy (ang-hisz)            148.70
+Włochy    Technikum nr 9 Lotnicze im. Bohaterów Narwiku                                                  1TD           1TD [O] Technik mechanik lotniczy (ang-niem)            144.95
+Włochy    Technikum nr 9 Lotnicze im. Bohaterów Narwiku                                                  1Ti           1Ti [O] Technik informatyk (ang,hisz-niem)              143.70
+Wola   Branżowa Szkoła Fototechniczna I stopnia                      1BF          1BF [O] Fotograf (ang)                                                  31.85
+Wola   Branżowa Szkoła I stopnia nr 39                               1Wia         1Wia [I-o] wielozawodowa (ang)                                          44.15
+Wola   Branżowa Szkoła I stopnia nr 39                               1Wiai        1Wiai [I-i] wielozawodowa (ang)                                         n.d.
+Wola   Branżowa Szkoła I stopnia nr 39                               1Wib         1Wib [I-o] wielozawodowa (ang)                                          70.35
+Wola   Branżowa Szkoła I stopnia nr 39                               1Wibi        1Wibi [I-i] wielozawodowa (ang)                                         n.d.
+Wola   Branżowa Szkoła I stopnia nr 6 im. Michała Konarskiego        1A           1A [O] Kucharz (ang)                                                    22.15
+Wola   Branżowa Szkoła I stopnia nr 6 im. Michała Konarskiego        1B           1B [O] Cukiernik (ang)                                                  25.90
+Wola   Branżowa Szkoła I stopnia nr 66                               1fz          1fz [O] Fryzjer (ang)                                                   42.25
+Wola   Branżowa Szkoła I stopnia nr 66                               1mz          1mz [O] Monter zabudowy i robót wykończeniowych w budownictwie (ang)    55.25
+Wola   Branżowa Szkoła Samochodowa I stopnia nr 1                    1a           1a [O] Mechanik pojazdów samochodowych (ang)                            25.05
+Wola   CLXI Liceum Ogólnokształcące im. Władysława Bartoszewskiego   1_AL_hiszp   1_AL_hiszp [O] geogr-ang-mat (ang-hisz)                                 148.45
+Wola   CLXI Liceum Ogólnokształcące im. Władysława Bartoszewskiego   1_AL_niem    1_AL_niem [O] geogr-ang-mat (ang-niem)                                  139.25
+Wola   CLXI Liceum Ogólnokształcące im. Władysława Bartoszewskiego   1_BL_hiszp   1_BL_hiszp [O] biol-chem-ang (ang-hisz)                                 152.30
+Wola   CLXI Liceum Ogólnokształcące im. Władysława Bartoszewskiego   1_BL_niem    1_BL_niem [O] biol-chem-ang (ang-niem)                                  144.90
+Wola   CLXI Liceum Ogólnokształcące im. Władysława Bartoszewskiego   1_CL_hiszp   1_CL_hiszp [O] geogr-pol-wos (ang-hisz)                                 126.65
+Wola   CLXI Liceum Ogólnokształcące im. Władysława Bartoszewskiego   1_CL_niem    1_CL_niem [O] geogr-pol-wos (ang-niem)                                  120.40
+Wola   CXIX Liceum Ogólnokształcące im. Jacka Kuronia                1A           1A [O] hist-ang-wos (ang-fra)                                           139.55
+Wola   CXIX Liceum Ogólnokształcące im. Jacka Kuronia                1A/1         1A/1 [O] hist-ang-wos (ang-niem)                                        148.75
+Wola   CXIX Liceum Ogólnokształcące im. Jacka Kuronia                1B           1B [O] biol-chem (ang-fra)                                              153.30
+Wola   CXIX Liceum Ogólnokształcące im. Jacka Kuronia                1B/1         1B/1 [O] biol-chem (ang-niem)                                           151.90
+Wola   CXIX Liceum Ogólnokształcące im. Jacka Kuronia                1C           1C [O] geogr-ang-mat (ang-fra)                                          152.50
+Wola   CXIX Liceum Ogólnokształcące im. Jacka Kuronia                1C/1         1C/1 [O] geogr-ang-mat (ang-niem)                                       153.60
+Wola   CXIX Liceum Ogólnokształcące im. Jacka Kuronia                1D           1D [O] hist-ang-pol (ang-fra)                                           136.70
+Wola   CXIX Liceum Ogólnokształcące im. Jacka Kuronia                1D/1         1D/1 [O] hist-ang-pol (ang-niem)                                        136.55
+Wola   CXXV Liceum Ogólnokształcące im. Waldemara Milewicza          1La          1La [O] geogr-ang-hiszp (ang-hisz)                                      123.10
+Wola   CXXV Liceum Ogólnokształcące im. Waldemara Milewicza          1Lb          1Lb [O] ang-pol-wos (ang-hisz,ros,niem)                                 118.75
+Wola   CXXV Liceum Ogólnokształcące im. Waldemara Milewicza          1Lc          1Lc [O] biol-ang (ang-hisz,niem)                                        115.35
+Wola   CXXV Liceum Ogólnokształcące im. Waldemara Milewicza          1Ld          1Ld [PW] hist-ang (ang-niem,ros,hisz)                                   52.25
+Wola   III Liceum Ogólnokształcące im. gen. Józefa Sowińskiego       1A           1A [O] hist-hiszp-pol (hisz*-ang)                                       146.90
+Wola   III Liceum Ogólnokształcące im. gen. Józefa Sowińskiego       1B           1B [O] ang-pol-wos (ang-fra*)                                           149.35
+Wola   III Liceum Ogólnokształcące im. gen. Józefa Sowińskiego       1C           1C [O] geogr-ang-mat (ang-hisz*)                                        158.10
+Wola   III Liceum Ogólnokształcące im. gen. Józefa Sowińskiego       1D           1D [O] inf-ang-mat (ang-ros*)                                           157.55
+Wola   III Liceum Ogólnokształcące im. gen. Józefa Sowińskiego       1F           1F [O] biol-chem-ang (ang-niem*)                                        163.80
+Wola   III Liceum Ogólnokształcące im. gen. Józefa Sowińskiego       1H           1H [O] geogr-ang-hiszp (ang-hisz*)                                      156.20
+Wola   LXXXVI Liceum Ogólnokształcące im. Batalionu "Zośka"          1a           1a [O] hist-ang-pol (ang-fra,hisz)                                      132.85
+Wola   LXXXVI Liceum Ogólnokształcące im. Batalionu "Zośka"          1b           1b [O] fiz-ang-mat (ang-hisz*)                                          134.60
+Wola   LXXXVI Liceum Ogólnokształcące im. Batalionu "Zośka"          1c           1c [O] geogr-ang-mat (ang-niem,hisz)                                    138.20
+Wola   LXXXVI Liceum Ogólnokształcące im. Batalionu "Zośka"          1d           1d [O] biol-chem-ang (ang-hisz,ros)                                     134.15
+Wola   LXXXVIII Liceum Ogólnokształcące im. Michała Konarskiego      1LA          1LA [O] ang-mat (ang-niem)                                              109.20
+Wola   LXXXVIII Liceum Ogólnokształcące im. Michała Konarskiego      1LB          1LB [MU] ang-wos (ang-niem)                                             57.00
+Wola   LXXXVIII Liceum Ogólnokształcące im. Michała Konarskiego      1LC          1LC [MU] geogr-ang (ang-niem)                                           38.50
+Wola   Technikum Budowlane nr 5 im. prof. Stefana Bryły              1at          1at [O] Technik budownictwa (ang-niem)                                  35.95
+Wola   Technikum Budowlane nr 5 im. prof. Stefana Bryły              1kt          1kt [O] Technik architektury krajobrazu (ang-niem)                      43.45
+Wola   Technikum Budowlane nr 5 im. prof. Stefana Bryły              1st          1st [O] Technik urządzeń i systemów energetyki odnawialnej (ang-niem)   52.40
+Wola   Technikum Budowlane nr 5 im. prof. Stefana Bryły              1wt          1wt [O] Technik robót wykończeniowych w budownictwie (ang-niem)         54.00
+Wola   Technikum Elektroniczne nr 1                                  1A           1A [O] Technik elektronik (ang-niem*)                                   147.45
+Wola   Technikum Elektroniczne nr 1                                  1B           1B [O] Technik mechatronik (ang-niem*)                                  159.65
+Wola   Technikum Elektroniczne nr 1                                  1C           1C [O] Technik programista (ang-niem*)                                  155.10
+Wola   Technikum Elektroniczne nr 1                                  1DEF         1DEF [O] Technik informatyk (ang-niem*)                                 125.75
+Wola   Technikum Fototechniczne                                      1CAN         1CAN [O] Technik fotografii i multimediów (ang-niem)                    116.60
+Wola   Technikum Fototechniczne                                      1TA,B        1TA,B [O] Technik fotografii i multimediów (ang-niem)                   80.30
+Wola   Technikum Fototechniczne                                      1TF          1TF [O] Technik fotografii i multimediów (ang-niem)                     103.50
+Wola   Technikum nr 23 im. Fryderyka Skarbka                         1Ta          1Ta [O] Technik ortopeda (ang-niem)                                     66.55
+Wola   Technikum nr 23 im. Fryderyka Skarbka                         1Tb          1Tb [O] Technik ortopeda (ang-hisz)                                     88.95
+Wola   Technikum nr 26                                               1TH          1TH [O] Technik hotelarstwa (ang-niem)                                  50.30
+Wola   Technikum nr 26                                               1TŻ          1TŻ [O] Technik żywienia i usług gastronomicznych (ang-niem)            23.95
+Wola   Technikum nr 29                                               1RA/1RB      1RA/1RB [O] Technik reklamy (ang-fra,niem,ros)                          29.80
+Wola   Technikum nr 29                                               1RI          1RI [I-o] Technik reklamy (ang-fra)                                     26.00
+Wola   Technikum nr 29                                               1RI-i        1RI-i [I-i] Technik reklamy (ang-fra)                                   n.d.
+Wola   Technikum nr 29                                               1TA/1TB      1TA/1TB [O] Technik organizacji turystyki (ang-fra,niem,ros)            15.60
+Wola   Technikum nr 3 im. Ludwika Krzywickiego                       1Ta          1Ta [O] Technik ekonomista (ang-hisz,niem,ros)                          71.20
+Wola   Technikum nr 3 im. Ludwika Krzywickiego                       1Tb          1Tb [O] Technik logistyk (ang-hisz,niem,ros)                            84.45
+Wola   Technikum nr 3 im. Ludwika Krzywickiego                       1Tc          1Tc [O] Technik logistyk (ang-hisz,niem,ros)                            69.65
+Wola   Technikum Samochodowe nr 2 im. Mariana Bublewicza             1BMW         1BMW [O] Technik pojazdów samochodowych (ang-niem)                      115.10
+Wola   Technikum Samochodowe nr 2 im. Mariana Bublewicza             1FRD         1FRD [O] Technik pojazdów samochodowych (ang-niem)                      74.75
+Wola   Technikum Samochodowe nr 2 im. Mariana Bublewicza             1KM          1KM [O] Technik pojazdów samochodowych (ang-niem)                       83.35
+Wola   Technikum Samochodowe nr 2 im. Mariana Bublewicza             1PE          1PE [O] Technik pojazdów samochodowych (ang-niem)                       94.35
+Wola   Technikum Samochodowe nr 2 im. Mariana Bublewicza             1TOY         1TOY [O] Technik pojazdów samochodowych (ang-niem)                      87.00
+Wola   Technikum Samochodowe nr 2 im. Mariana Bublewicza             1VY          1VY [O] Technik pojazdów samochodowych (ang-niem)                       78.45
+Wola   XCII Liceum Ogólnokształcące z Oddziałami Integracyjnymi      1A           1A [O] biol-ang (ang-hisz,niem)                                         100.05
+Wola   XCII Liceum Ogólnokształcące z Oddziałami Integracyjnymi      1Ai          1Ai [I-o] biol-ang (ang-hisz,niem)                                      94.25
+Wola   XCII Liceum Ogólnokształcące z Oddziałami Integracyjnymi      1Aii         1Aii [I-i] biol-ang (ang-niem,hisz)                                     n.d.
+Wola   XCII Liceum Ogólnokształcące z Oddziałami Integracyjnymi      1Bi          1Bi [I-o] geogr-wos (ang-hisz)                                          107.80
+Wola   XCII Liceum Ogólnokształcące z Oddziałami Integracyjnymi      1Bii         1Bii [I-i] geogr-wos (ang-hisz,niem)                                    n.d.
+Wola   XII Liceum Ogólnokształcące im. Henryka Sienkiewicza          1A           1A [O] fiz-inf-mat (ang-fra,niem)                                       163.70
+Wola       XII Liceum Ogólnokształcące im. Henryka Sienkiewicza                                1B                   1B [O] geogr-ang-mat (ang-hisz,niem)                              163.25
+Wola       XII Liceum Ogólnokształcące im. Henryka Sienkiewicza                                1C                   1C [O] biol-chem (ang-fra,hisz)                                   168.40
+Wola       XII Liceum Ogólnokształcące im. Henryka Sienkiewicza                                1D                   1D [O] hist-pol-wos (ang-ros,wlo)                                 153.40
+Wola       XL Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefana Żeromskiego       1A                   1A [O] fiz-mat (ang-hisz*,niem*,fra)                              171.80
+Wola       XL Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefana Żeromskiego       1B                   1B [O] biol-chem (ang-hisz*,niem*,fra)                            172.40
+Wola       XL Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefana Żeromskiego       1C                   1C [O] biol-chem-mat (ang-hisz*,niem*,fra)                        175.55
+Wola       XL Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefana Żeromskiego       1D                   1D [O] geogr-mat-wos (ang-hisz*,niem*,fra)                        166.45
+Wola       XL Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefana Żeromskiego       1E                   1E [D] pol-wos (ang-hisz*,niem*,fra)                              181.06
+Wola       XL Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefana Żeromskiego       1F                   1F [O] geogr-ang-mat (ang-hisz*,niem*,fra)                        173.00
+Wola       XLV Liceum Ogólnokształcące im. Romualda Traugutta                                  1a                   1a [O] biol-chem-ang (ang-niem*)                                  139.90
+Wola       XLV Liceum Ogólnokształcące im. Romualda Traugutta                                  1b                   1b [O] hist-ang-pol (ang-ros*)                                    121.30
+Wola       XLV Liceum Ogólnokształcące im. Romualda Traugutta                                  1c                   1c [O] geogr-ang-wos (ang-hisz*)                                  135.70
+Wola       XLV Liceum Ogólnokształcące im. Romualda Traugutta                                  1d                   1d [O] inf-ang-mat (ang-niem*)                                    139.95
+Wola       XXIV Liceum Ogólnokształcące im. Cypriana Kamila Norwida                            1Af                  1Af [O] biol-chem-ang (ang-fra)                                   162.25
+Wola       XXIV Liceum Ogólnokształcące im. Cypriana Kamila Norwida                            1An                  1An [O] biol-chem-ang (ang-niem)                                  161.00
+Wola       XXIV Liceum Ogólnokształcące im. Cypriana Kamila Norwida                            1Bf                  1Bf [O] hist-pol-wos (ang-fra)                                    145.25
+Wola       XXIV Liceum Ogólnokształcące im. Cypriana Kamila Norwida                            1Bn                  1Bn [O] hist-pol-wos (ang-niem)                                   145.55
+Wola       XXIV Liceum Ogólnokształcące im. Cypriana Kamila Norwida                            1Cf                  1Cf [O] geogr-ang-mat (ang-fra)                                   157.00
+Wola       XXIV Liceum Ogólnokształcące im. Cypriana Kamila Norwida                            1Cn                  1Cn [O] geogr-ang-mat (ang-niem)                                  162.45
+Wola       XXIV Liceum Ogólnokształcące im. Cypriana Kamila Norwida                            1Df                  1Df [O] fiz-ang-mat (ang-fra)                                     159.15
+Wola       XXIV Liceum Ogólnokształcące im. Cypriana Kamila Norwida                            1Dn                  1Dn [O] fiz-ang-mat (ang-niem)                                    165.30
+Wola       XXX Liceum Ogólnokształcące im. Jana Śniadeckiego                                   1A                   1A [O] ang-pol-wos (ang-fra,hisz*,niem*,ros,wlo)                  155.80
+Wola       XXX Liceum Ogólnokształcące im. Jana Śniadeckiego                                   1b                   1b [O] geogr-ang-mat (ang-fra,hisz*,niem*,ros,wlo)                162.65
+Wola       XXX Liceum Ogólnokształcące im. Jana Śniadeckiego                                   1c                   1c [O] biol-chem-ang (ang-fra,hisz*,niem*,ros,wlo)                161.95
+Wola       XXX Liceum Ogólnokształcące im. Jana Śniadeckiego                                   1d1                  1d1 [O] geogr-ang-hiszp (ang-hisz)                                158.40
+Wola       XXX Liceum Ogólnokształcące im. Jana Śniadeckiego                                   1d2                  1d2 [O] geogr-ang-niem (ang-niem)                                 152.20
+Wola       XXX Liceum Ogólnokształcące im. Jana Śniadeckiego                                   1e                   1e [D] geogr-ang-wos (ang-fra,hisz*,niem*,ros,wlo)                175.02
+Wola       XXXIII Liceum Ogólnokształcące Dwujęzyczne im. Mikołaja Kopernika                   1A                   1A [D] fiz-mat (ang-fra*,hisz*,niem*)                             186.42
+Wola       XXXIII Liceum Ogólnokształcące Dwujęzyczne im. Mikołaja Kopernika                   1G_H                 1G_H [D] geogr-hiszp-mat (ang-hisz)                               188.48
+Wola       XXXIII Liceum Ogólnokształcące Dwujęzyczne im. Mikołaja Kopernika                   1G_N                 1G_N [D] geogr-niem-mat (ang-niem)                                184.60
+Wola       XXXIII Liceum Ogólnokształcące Dwujęzyczne im. Mikołaja Kopernika                   1M                   1M [D] fiz-mat (ang-hisz*,fra*,niem*)                             178.00
+Wola       XXXIII Liceum Ogólnokształcące Dwujęzyczne im. Mikołaja Kopernika                   1MYP                 1MYP [M] (ang-fra*,hisz*,niem*)                                   197.38
+Wola       XXXIII Liceum Ogólnokształcące Dwujęzyczne im. Mikołaja Kopernika                   1P                   1P [D] biol-chem-mat (ang-fra*,hisz*,niem*)                       190.36
+Żoliborz   Branżowa Szkoła I stopnia nr 11                                                     1EM                  1EM [O] Elektromechanik pojazdów samochodowych (ang)              45.30
+Żoliborz   Branżowa Szkoła I stopnia nr 11                                                     1KM                  1KM [O] Kierowca mechanik (ang)                                   36.35
+Żoliborz   Branżowa Szkoła I stopnia nr 11                                                     1LAK                 1LAK [O] Lakiernik samochodowy (ang)                              47.70
+Żoliborz   Branżowa Szkoła I stopnia nr 11                                                     1MPS                 1MPS [O] Mechanik pojazdów samochodowych (ang)                    34.80
+Żoliborz   Branżowa Szkoła I stopnia Nr 61                                                     1b                   1b [O] Elektryk (ang)                                             20.40
+Żoliborz   Branżowa Szkoła Rzemiosł Artystycznych I stopnia nr 65                              1pzj                 1pzj [O] Złotnik-jubiler (ang)                                    34.05
+Żoliborz   CXIV Liceum Ogólnokształcące im. Jana Kilińskiego                                   1a-hiszp             1a-hiszp [O] hist-h.szt.-pol (ang-hisz)                           130.10
+Żoliborz   CXIV Liceum Ogólnokształcące im. Jana Kilińskiego                                   1ai                  1ai [I-o] hist-h.szt.-pol (ang-hisz)                              109.35
+Żoliborz   CXIV Liceum Ogólnokształcące im. Jana Kilińskiego                                   1ai-i                1ai-i [I-i] hist-h.szt.-pol (ang-hisz)                            n.d.
+Żoliborz   CXIV Liceum Ogólnokształcące im. Jana Kilińskiego                                   1a-niem              1a-niem [O] hist-h.szt.-pol (ang-niem)                            114.70
+Żoliborz   CXIV Liceum Ogólnokształcące im. Jana Kilińskiego                                   1c                   1c [O] biol-ang-wos (ang-niem)                                    120.40
+Żoliborz   CXIV Liceum Ogólnokształcące im. Jana Kilińskiego                                   1d-hiszp             1d-hiszp [O] h.szt.-ang-pol (ang-hisz)                            136.80
+Żoliborz   CXIV Liceum Ogólnokształcące im. Jana Kilińskiego                                   1d-niem              1d-niem [O] h.szt.-ang-pol (ang-niem)                             108.30
+Żoliborz   I Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Bolesława Limanowskiego   1A                   1A [O] hist-pol-wos (ang-hisz*)                                   143.75
+Żoliborz   I Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Bolesława Limanowskiego   1Bf                  1Bf [O] fiz-ang-mat (ang-hisz*,niem*)                             158.05
+Żoliborz   I Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Bolesława Limanowskiego   1Binf                1Binf [O] inf-ang-mat (ang-hisz*,niem*)                           159.20
+Żoliborz   I Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Bolesława Limanowskiego   1C                   1C [O] biol-chem-mat (ang-hisz,niem*)                             159.60
+Żoliborz   I Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Bolesława Limanowskiego   1D                   1D [I-o] h.szt.-ang-pol (ang-hisz*)                               152.10
+Żoliborz   I Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Bolesława Limanowskiego   1Dint                1Dint [I-i] h.szt.-ang-pol (ang-hisz*)                            n.d.
+Żoliborz   I Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Bolesława Limanowskiego   1E                   1E [O] geogr-ang-mat (ang-hisz*,niem*)                            159.80
+Żoliborz   I Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Bolesława Limanowskiego   1F                   1F [O] biol-chem-ang (ang-hisz*,niem*)                            160.40
+Żoliborz   I Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Bolesława Limanowskiego   1Gh                  1Gh [O] geogr-ang-hiszp (ang-hisz)                                151.75
+Żoliborz   I Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Bolesława Limanowskiego   1Gn                  1Gn [O] geogr-ang-niem (ang-niem)                                 142.95
+Żoliborz   LXIV Liceum Ogólnokształcące im. Stanisława Ignacego Witkiewicza "Witkacego"        1A                   1A [O] ang (ang-ros*)                                             176.00
+Żoliborz   LXIV Liceum Ogólnokształcące im. Stanisława Ignacego Witkiewicza "Witkacego"        1B                   1B [O] niem (niem*-ang)                                           174.75
+Żoliborz   LXIV Liceum Ogólnokształcące im. Stanisława Ignacego Witkiewicza "Witkacego"        1C                   1C [O] franc (fra*-ang)                                           174.45
+Żoliborz   LXIV Liceum Ogólnokształcące im. Stanisława Ignacego Witkiewicza "Witkacego"        1D                   1D [O] hiszp (hisz*-ang)                                          179.55
+Żoliborz   Technikum Elektroniczne nr 3 im. Żołnierzy Armii Krajowej "Żywiciel"                1A                   1A [O] Technik elektronik (ang-hisz*,niem*)                       139.35
+Żoliborz   Technikum Elektroniczne nr 3 im. Żołnierzy Armii Krajowej "Żywiciel"                1C                   1C [O] Technik informatyk (ang-niem*)                             117.20
+Żoliborz   Technikum Elektroniczne nr 3 im. Żołnierzy Armii Krajowej "Żywiciel"                1D                   1D [O] Technik informatyk (ang-hisz*)                             131.75
+Żoliborz   Technikum Elektroniczne nr 3 im. Żołnierzy Armii Krajowej "Żywiciel"                1FG                  1FG [O] Technik programista (ang-hisz*)                           131.30
+Żoliborz   Technikum Elektroniczne nr 3 im. Żołnierzy Armii Krajowej "Żywiciel"                1H                   1H [O] Technik elektryk (ang-niem*,ros*)                          142.45
+Żoliborz   Technikum Elektroniczne nr 3 im. Żołnierzy Armii Krajowej "Żywiciel"                1IJ/teleinformatyk   1IJ/teleinformatyk [O] Technik teleinformatyk (ang-niem*,ros*)    105.20
+Żoliborz   Technikum Elektroniczne nr 3 im. Żołnierzy Armii Krajowej "Żywiciel"                1IJ/urz.dźwig.       1IJ/urz.dźwig. [O] Technik urządzeń dźwigowych (ang-niem*,ros*)   94.40
+Żoliborz   Technikum Elektryczne nr 2 im. Synów Pułku                                          1a                   1a [O] Technik elektryk (ang-niem)                                105.15
+Żoliborz   Technikum Elektryczne nr 2 im. Synów Pułku                                          1e                   1e [O] Technik teleinformatyk (ang-niem)                          45.00
+Żoliborz   Technikum Mechaniczne nr 7 im. Jana Kilińskiego                                     1to                  1to [O] Technik optyk (ang-niem)                                  29.45
+Żoliborz   Technikum Mechaniczne nr 7 im. Jana Kilińskiego                                     1tr                  1tr [O] Technik reklamy (ang-niem)                                64.70
+Żoliborz   Technikum Samochodowe nr 3                                                          1a                   1a [O] Technik pojazdów samochodowych (ang-niem)                  85.35
+Żoliborz   Technikum Samochodowe nr 3                                                          1b                   1b [O] Technik pojazdów samochodowych (ang-ros)                   62.55
+Żoliborz   Technikum Samochodowe nr 3                                                          1c                   1c [O] Technik mechatronik (ang-niem)                             53.75
+Żoliborz   Technikum Samochodowe nr 3                                                          1d                   1d [O] Technik logistyk (ang-niem)                                42.85
+Żoliborz   Technikum Samochodowe nr 3                                                          1e    1e [O] Technik elektromobilności (ang-niem)   31.45
+Żoliborz   XVI Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefanii Sempołowskiej   0AF   0AF [DW] (fra-ang)                            154.40
+Żoliborz   XVI Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefanii Sempołowskiej   1B    1B [O] geogr-ang-mat (ang-fra,hisz)           159.30
+Żoliborz   XVI Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefanii Sempołowskiej   1C    1C [O] geogr-hist-wos (ang-fra)               150.65
+Żoliborz   XVI Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefanii Sempołowskiej   1D2   1D2 [D] biol-chem-ang (fra-ang)               153.95
+Żoliborz   XVI Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefanii Sempołowskiej   1D3   1D3 [D] geogr-hist-ang (fra-ang)              156.20
+Żoliborz   XVI Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefanii Sempołowskiej   1E    1E [O] biol-chem-mat (ang-fra)                163.65
